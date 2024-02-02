@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "6c561e5760851abe",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b69afa1eced0799",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a71ab0adeeda7c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "277c8fb6d3626f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Terminal Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "fb62d4a68107dd74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63917c7cd1a56d6a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cb2137f1bfc845a",
+    "type": "split",
+    "children": [
+      {
+        "id": "caffef07c5929143",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02f0c8298aa077c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ef329af55a35750",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "669f44682066e73f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "67cb1b068e0d1f86",
+    "type": "split",
+    "children": [
+      {
+        "id": "c034165d31a0a611",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc8011fbae1812d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux Terminal Cheat Sheet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9303a696a5b15cc1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux Terminal Cheat Sheet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d1b0d2ac4dba899",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b48c9b5161b7f8eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux Terminal Cheat Sheet.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "277c8fb6d3626f26",
+  "lastOpenFiles": [
+    "New Text Document.txt",
+    "Linux Terminal Cheat Sheet.md",
+    "Welcome.md"
+  ]
+}
