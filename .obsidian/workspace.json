@@ -6,97 +6,39 @@
       {
         "id": "2b69afa1eced0799",
         "type": "tabs",
+        "dimension": 69.60065199674001,
         "children": [
           {
-            "id": "277c8fb6d3626f26",
+            "id": "bcaa1f289c764618",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheat Sheets/Linux Terminal Cheat Sheet.md",
+                "file": "Software/Visual Studio 2022 Extensions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2225a3bd16afa1c8",
+            "id": "966f537a3829da52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheat Sheets/Docker Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53d34f409f8959b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cheat Sheets/SSH Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab6d021a915206c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cheat Sheets/Docker Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "befb82741b849a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Softwares/Annoying Thing About VS Code.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c600c8fb76c8f20a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flutter/Compiling The Flutter Engine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c6cd5b8b3a20f77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cheat Sheets/Docker Cheat Sheet.md",
+                "file": "Ideas/Interesting Things to Learn.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       },
       {
         "id": "fb62d4a68107dd74",
         "type": "tabs",
+        "dimension": 30.399348003259984,
         "children": [
           {
             "id": "63917c7cd1a56d6a",
@@ -172,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheat Sheets/Docker Cheat Sheet.md",
+                "file": "Ideas/Interesting Things to Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheat Sheets/Docker Cheat Sheet.md",
+                "file": "Ideas/Interesting Things to Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheat Sheets/Docker Cheat Sheet.md"
+                "file": "Ideas/Interesting Things to Learn.md"
               }
             }
           }
@@ -233,16 +175,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c6cd5b8b3a20f77",
+  "active": "966f537a3829da52",
   "lastOpenFiles": [
-    "Cheat Sheets/Linux Terminal Cheat Sheet.md",
+    "Books/Good That Might Be Good To Read.md",
+    "Ideas/Interesting Things to Learn.md",
+    "Ideas",
+    "Software/Visual Studio 2022 Extensions.md",
+    "Books",
+    "Flutter/Flutter CLI Cheat Sheet.md",
+    "Flutter/Debugging apps running on cusom embedders.md",
     "Cheat Sheets/Docker Cheat Sheet.md",
+    "Cheat Sheets/Linux Terminal Cheat Sheet.md",
     "Cheat Sheets/Windows Terminal Cheat Sheet.md",
     "Flutter/Compiling The Flutter Engine.md",
     "Flutter",
-    "Softwares/Annoying Thing About VS Code.md",
+    "Software/Annoying Thing About VS Code.md",
     "Welcome.md",
-    "Softwares",
+    "Software",
     "Cheat Sheets/VCPKG Cheat Sheet.md",
     "Cheat Sheets",
     "Cheat Sheets/SSH Cheat Sheet.md",
