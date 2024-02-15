@@ -7,3 +7,4 @@
 - there is no feedback for a lot of operations that happen in the background.
 - if the bottom menu is closed, there is no way to easily find how to reopen it
 - when hovering over symbols in the editor, the tooltip always appears above the mouse, hiding relevant lines. In VS 2022 it appears below the mouse.
+-
