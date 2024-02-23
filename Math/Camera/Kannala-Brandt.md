@@ -1,8 +1,34 @@
-### Undistorted2DistortedPixel
+# Ray to Distorted Pixel  $A(F(\theta, \varphi) + D(\theta, \varphi))$
+
+### Object ray to projected point on the virtual image plane (undistorted)
+
 $$
-x_{distorted} = r(\theta)u_r(\varphi) + \Delta_r(\theta, \varphi)u_r(\varphi) + \Delta_t(\theta, \varphi)u_{\varphi}(\varphi)
+x_{projected-undistorted} = F(\theta,\varphi) = r(\theta)u_r(\varphi)
 $$
-Terms breakdown:
+### Projected point to distorted projected point
+$$
+x_{distorted} = x_{projected-undistorted}  + \Delta_r(\theta, \varphi)u_r(\varphi) + \Delta_t(\theta, \varphi)u_{\varphi}(\varphi)
+$$
+### Distorted projected point to pixel $(u,v)$
+$$
+  \begin{pmatrix}
+  u \\
+  v
+  \end{pmatrix}
+  =
+  A(x_{distorted})
+  =
+    \begin{pmatrix}
+  m_u && 0 \\
+  0 && m_v
+  \end{pmatrix}x_{distorted}
+  +
+ \begin{pmatrix}
+  u_0 \\
+  v_0
+  \end{pmatrix}
+$$
+### Terms breakdown
 - $\theta$ - in camera space, the object angle relative to the principle axis (Z axis)
 - $\varphi$ - in camera space, the object angle relative to the x axis (roll, righthand rule with Z axis).
 	  Note: $\varphi$ is the same for both camera space and projected image space (undistorted)
