@@ -6,7 +6,6 @@
       {
         "id": "2b69afa1eced0799",
         "type": "tabs",
-        "dimension": 69.60065199674001,
         "children": [
           {
             "id": "bcaa1f289c764618",
@@ -38,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Github Actions/Github Actions with Docker.md",
+                "file": "Math/Camera/Kannala-Brandt.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,21 +45,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "fb62d4a68107dd74",
-        "type": "tabs",
-        "dimension": 30.399348003259984,
-        "children": [
-          {
-            "id": "63917c7cd1a56d6a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/Github Actions/Github Actions with Docker.md",
+                "file": "Math/Camera/Kannala-Brandt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/Github Actions/Github Actions with Docker.md",
+                "file": "Math/Camera/Kannala-Brandt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/Github Actions/Github Actions with Docker.md"
+                "file": "Math/Camera/Kannala-Brandt.md"
               }
             }
           }
@@ -190,11 +174,15 @@
   "active": "6c3ec9eac1325370",
   "lastOpenFiles": [
     "Software/Visual Studio 2022 Extensions.md",
+    "Math/Camera/Kannala-Brandt.md",
+    "Math/Camera/Whaba's Problem.md",
+    "Math/Planning.md",
+    "Math/Camera",
+    "Soft Skills/Persuading.md",
+    "Math/math.md",
     "Software/Github Actions/Github Actions with Docker.md",
     "Software/Annoying Thing About VS Code.md",
-    "Soft Skills/Persuading.md",
     "Software/Github Actions",
-    "Math/math.md",
     "Flutter/Flutter CLI Cheat Sheet.md",
     "Math",
     "Ideas/Interesting Things to Learn.md",
