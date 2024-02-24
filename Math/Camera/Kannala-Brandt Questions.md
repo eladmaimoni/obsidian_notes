@@ -1,1 +1,2 @@
 1. If we follow my calibration plan for the Kannala-Brandt projection model (using Elbit measurements). how can we approximate the inverse projection?
+2. How to correctly estimate $A$ parameters: ($m_u$ $m_v$) and  $(u_0, v_0)$ 

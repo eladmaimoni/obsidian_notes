@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Camera/Kannala-Brandt 1 - Ray to Distorted Pixel.md",
+                "file": "Math/Camera/Kannala-Brandt Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 365.5
   },
   "right": {
     "id": "67cb1b068e0d1f86",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Camera/Calibration Plan Using Kannala-Brandt.md",
+                "file": "Math/Camera/Kannala-Brandt Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Camera/Calibration Plan Using Kannala-Brandt.md",
+                "file": "Math/Camera/Kannala-Brandt Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Camera/Calibration Plan Using Kannala-Brandt.md"
+                "file": "Math/Camera/Kannala-Brandt Questions.md"
               }
             }
           }
@@ -179,12 +179,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01f5804a03e2901a",
+  "active": "6c3ec9eac1325370",
   "lastOpenFiles": [
-    "Math/Camera/Kannala-Brandt Questions.md",
+    "Math/Camera/Kannala-Brandt 3 - Calibration Process.md",
     "Math/Camera/Kannala-Brandt 1 - Ray to Distorted Pixel.md",
-    "Math/Camera/Kannala-Brandt 2 - Distorted Pixel to Ray.md",
     "Math/Camera/Calibration Plan Using Kannala-Brandt.md",
+    "Math/Camera/Kannala-Brandt Questions.md",
+    "Math/Camera/Kannala-Brandt 2 - Distorted Pixel to Ray.md",
     "Soft Skills/Persuading.md",
     "Software/Visual Studio 2022 Extensions.md",
     "Math/Camera/Whaba's Problem.md",
