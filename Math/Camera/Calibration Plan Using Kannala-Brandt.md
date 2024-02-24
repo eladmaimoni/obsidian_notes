@@ -10,7 +10,7 @@ We have $N$ observations in the form of $pixel \rightarrow (azimuth, elevation)$
 
 1. transform each pixel observation into normalized coordinates by using $A^{-1}$ 
 2. compute $r$ for each normalized pixel observation
-3. compute $\theta$ for each pair of $(azimuth, elevation)
+3. compute $\theta$ for each pair of $(azimuth, elevation)$
 4. we can now estimate this using LS:
 $$
 \begin{pmatrix}
