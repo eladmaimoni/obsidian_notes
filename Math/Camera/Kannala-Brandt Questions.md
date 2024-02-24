@@ -1,0 +1,1 @@
+1. If we follow my calibration plan for the Kannala-Brandt projection model (using Elbit measurements). how can we approximate the inverse projection?

@@ -1,4 +1,4 @@
-# Ray to Distorted Pixel  $A(F(\theta, \varphi) + D(\theta, \varphi))$
+# Ray to Distorted Pixel  $A(F(\theta, \varphi) + S(\theta, \varphi))$
 
 ### Object ray to projected point on the virtual image plane (undistorted)
 
