@@ -1,0 +1,1 @@
+- Don't use comments to prompt copilot, use inline chat instead (Ctrl + I)

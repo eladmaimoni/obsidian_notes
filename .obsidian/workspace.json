@@ -6,8 +6,16 @@
       {
         "id": "2b69afa1eced0799",
         "type": "tabs",
-        "dimension": 46.02803738317757,
+        "dimension": 43.66883116883117,
         "children": [
+          {
+            "id": "01f5804a03e2901a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
           {
             "id": "6c3ec9eac1325370",
             "type": "leaf",
@@ -25,7 +33,7 @@
       {
         "id": "d331e49d90a69429",
         "type": "tabs",
-        "dimension": 53.97196261682243,
+        "dimension": 56.33116883116883,
         "children": [
           {
             "id": "8046a12f4d47b10e",
@@ -38,21 +46,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "01f5804a03e2901a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Camera/Calibration Plan Using Kannala-Brandt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Camera/Calibration Plan Using Kannala-Brandt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Camera/Calibration Plan Using Kannala-Brandt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Math/Camera/Calibration Plan Using Kannala-Brandt.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -181,19 +172,23 @@
   },
   "active": "01f5804a03e2901a",
   "lastOpenFiles": [
+    "Math/Matrix Calculus/Kronecker Product.md",
+    "Math/Planning.md",
+    "Math/Matrix Calculus",
+    "Math/math.md",
+    "Software/VSCode/Annoying Thing About VS Code.md",
+    "Software/VSCode/Copilot Chat Tips.md",
+    "Software/VSCode",
+    "Math/Camera/Calibration Plan Using Kannala-Brandt.md",
     "Math/Camera/Kannala-Brandt 1 - Ray to Distorted Pixel.md",
     "Math/Camera/Kannala-Brandt 2 - Distorted Pixel to Ray.md",
     "Math/Camera/Kannala-Brandt 3 - Calibration Process.md",
     "Math/Camera/Kannala-Brandt Questions.md",
-    "Math/Camera/Calibration Plan Using Kannala-Brandt.md",
     "Soft Skills/Persuading.md",
     "Software/Visual Studio 2022 Extensions.md",
     "Math/Camera/Whaba's Problem.md",
-    "Math/Planning.md",
     "Math/Camera",
-    "Math/math.md",
     "Software/Github Actions/Github Actions with Docker.md",
-    "Software/Annoying Thing About VS Code.md",
     "Software/Github Actions",
     "Flutter/Flutter CLI Cheat Sheet.md",
     "Math",
@@ -211,8 +206,6 @@
     "Welcome.md",
     "Software",
     "Cheat Sheets/VCPKG Cheat Sheet.md",
-    "Cheat Sheets",
-    "Cheat Sheets/SSH Cheat Sheet.md",
-    "New Text Document.txt"
+    "Cheat Sheets/SSH Cheat Sheet.md"
   ]
 }

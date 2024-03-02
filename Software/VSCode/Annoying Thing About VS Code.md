@@ -1,0 +1,10 @@
+- tabs: they are too large. and if too many are open it is very hard too search ones that are behind other UI elements.
+- multiple windows: you can't drag a tab to a different window. you can open a new window (CTRL + K, O) but its clunky. - FIXED
+- no app bar with common things: for instance the 'go back' and debugging controls **hide the tabs**. - FIXED
+- No text label to the common controls (file explorer)
+- bookmarks - this is an extension, and its annoying.
+- pinning a tab is annoying, there is no "close all but pinned", the pin button is hard to find.
+- there is no feedback for a lot of operations that happen in the background - breakpoint hit for example. 
+- if the bottom menu is closed, there is no way to easily find how to reopen it
+- when hovering over symbols in the editor, the tooltip always appears above the mouse, hiding relevant lines. In VS 2022 it appears **below** the mouse.
+-

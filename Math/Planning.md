@@ -7,3 +7,8 @@ Subjects:
 	- understand different distortion models:
 - Camera models - Pinhole, FOV
 - 
+
+Resources:
+- [statlect - matrix algebra](https://www.statlect.com/matrix-algebra/) 
+  contains a lots of proofs about matrix algebra
+- 
