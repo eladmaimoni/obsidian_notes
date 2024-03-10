@@ -6,23 +6,14 @@
       {
         "id": "2b69afa1eced0799",
         "type": "tabs",
-        "dimension": 43.66883116883117,
         "children": [
           {
-            "id": "01f5804a03e2901a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "6c3ec9eac1325370",
+            "id": "5657ff09d9d4e1c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Camera/Kannala-Brandt 1 - Ray to Distorted Pixel.md",
+                "file": "Math/Calculus/Matrix Differentiation Examples/Cubed Matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,17 +22,16 @@
         ]
       },
       {
-        "id": "d331e49d90a69429",
+        "id": "7b3d0538d9d669db",
         "type": "tabs",
-        "dimension": 56.33116883116883,
         "children": [
           {
-            "id": "8046a12f4d47b10e",
+            "id": "1239889c83cd6bc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Camera/Kannala-Brandt 2 - Distorted Pixel to Ray.md",
+                "file": "Math/Calculus/Product Rule (Matrix Derivative).md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#math/matrix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 357.5
   },
   "right": {
     "id": "67cb1b068e0d1f86",
@@ -113,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Math/Calculus/Matrix Differentiation Examples/Cubed Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Math/Calculus/Matrix Differentiation Examples/Cubed Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Math/Calculus/Matrix Differentiation Examples/Cubed Matrix.md"
+              }
             }
           }
         ]
@@ -170,42 +164,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01f5804a03e2901a",
+  "active": "02f0c8298aa077c6",
   "lastOpenFiles": [
-    "Math/Matrix Calculus/Kronecker Product.md",
-    "Math/Planning.md",
-    "Math/Matrix Calculus",
-    "Math/math.md",
-    "Software/VSCode/Annoying Thing About VS Code.md",
-    "Software/VSCode/Copilot Chat Tips.md",
-    "Software/VSCode",
-    "Math/Camera/Calibration Plan Using Kannala-Brandt.md",
-    "Math/Camera/Kannala-Brandt 1 - Ray to Distorted Pixel.md",
-    "Math/Camera/Kannala-Brandt 2 - Distorted Pixel to Ray.md",
-    "Math/Camera/Kannala-Brandt 3 - Calibration Process.md",
-    "Math/Camera/Kannala-Brandt Questions.md",
-    "Soft Skills/Persuading.md",
-    "Software/Visual Studio 2022 Extensions.md",
-    "Math/Camera/Whaba's Problem.md",
-    "Math/Camera",
-    "Software/Github Actions/Github Actions with Docker.md",
-    "Software/Github Actions",
-    "Flutter/Flutter CLI Cheat Sheet.md",
-    "Math",
+    "Math/Calculus/Matrix Differentiation Examples/Quadratic Form Differential (definition).md",
+    "Math/Calculus/Matrix Differentiation Examples/Cubed Matrix.md",
+    "Math/Calculus/Matrix Differentiation Examples/Matrix Inverse",
+    "Math/Calculus/Product Rule (Matrix Derivative).md",
+    "Math/Calculus/Limit Definition.md",
+    "Math/Calculus/Chain Rule (Matrix Derivative).md",
+    "Math/Calculus/Matrix Differentiation Examples",
+    "Math/Calculus/Limit of a product equals to the product of limits.md",
     "Ideas/Interesting Things to Learn.md",
-    "Soft Skills",
-    "Books/Good That Might Be Good To Read.md",
-    "Ideas",
-    "Books",
-    "Flutter/Debugging apps running on cusom embedders.md",
-    "Cheat Sheets/Docker Cheat Sheet.md",
+    "Kronecker Product Properties.md",
+    "Pasted image 20240308134013.png",
+    "Math/Sets/A continuous function maps compact set to bounded output.md",
+    "Math/Camera Geometry/Kannala-Brandt Questions.md",
+    "Math/Calculus",
+    "Math/Sets/Union or Intersection of open sets is open.md",
+    "Math/Sets/if a boundary point belongs to a set, it must be an accumulation point of its complementary..md",
+    "Math/Sets/A boundary point of one set is also a boundary point of its complementary.md",
+    "Math/Sets",
+    "Math/math.md",
     "Cheat Sheets/Linux Terminal Cheat Sheet.md",
-    "Cheat Sheets/Windows Terminal Cheat Sheet.md",
-    "Flutter/Compiling The Flutter Engine.md",
-    "Flutter",
-    "Welcome.md",
-    "Software",
-    "Cheat Sheets/VCPKG Cheat Sheet.md",
-    "Cheat Sheets/SSH Cheat Sheet.md"
+    "Math/Linear Algebra/Rank/Rank of ATA equal rank of A.md",
+    "Math/Linear Algebra/Rank/Rank of A equals rank of transpose(A).md",
+    "Math/Linear Algebra/Determinant/Determinant is the product of the eigenvalues.md",
+    "Math/Linear Algebra/Shur Decomposition.md",
+    "Math/Linear Algebra/Untitled.md",
+    "Math/Linear Algebra/Rank",
+    "Math/Linear Algebra/Kronecker Product/The determinant of of a Kronecker product is product of its multiplicants determinant powered by the dims of the other multiplicant.md",
+    "Math/Linear Algebra/Kronecker Product/Eigenvalues of a Kronecker product are permutations of its multiplicants.md",
+    "Math/Linear Algebra/Kronecker Product/Kronecker product of positive definite matrices is positive definite.md",
+    "Math/Linear Algebra/Kronecker Product/Kronecker Product - Basic Properties.md",
+    "Math/Linear Algebra/Determinant",
+    "Math/Linear Algebra/Eigenvalues/Eigenvalues of Real Symmetric Matrices are Real.md",
+    "Math/Linear Algebra/Eigenvalues",
+    "Math/Linear Algebra/Positive Definite",
+    "Math/Linear Algebra",
+    "Math/Linear Algebra/Kronecker Product"
   ]
 }
