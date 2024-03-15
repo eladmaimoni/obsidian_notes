@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus/Matrix Differentiation Examples/Warp Function.md",
+                "file": "Math/Calculus/Matrix Differentiation Examples/Inverse of a Matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Calculus/Matrix Differentiation Examples/Warp Function.md",
+                "file": "Math/Calculus/Chain Rule (Matrix Derivative).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Calculus/Matrix Differentiation Examples/Warp Function.md",
+                "file": "Math/Calculus/Chain Rule (Matrix Derivative).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Calculus/Matrix Differentiation Examples/Warp Function.md"
+                "file": "Math/Calculus/Chain Rule (Matrix Derivative).md"
               }
             }
           }
@@ -200,10 +201,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bad5a0183746975",
+  "active": "6c017268a0a39df8",
   "lastOpenFiles": [
-    "Math/Calculus/Product Rule (Matrix Derivative).md",
+    "Math/Calculus/Matrix Differentiation Examples/Inverse of a Matrix.md",
     "Math/Calculus/Matrix Differentiation Examples/Warp Function.md",
+    "Math/Calculus/Product Rule (Matrix Derivative).md",
     "Math/Calculus/Chain Rule (Matrix Derivative).md",
     "Math/Camera Geometry/Calibration Plan Using Kannala-Brandt.md",
     "Math/Calculus/Limit Definition.md",
@@ -219,7 +221,6 @@
     "Math/Linear Algebra/Eigenvalues/Eigenvalues of Real Symmetric Matrices are Real.md",
     "Math/Linear Algebra/Determinant/Determinant is the product of the eigenvalues.md",
     "Vision & Math libraries.md",
-    "Math/Calculus/Matrix Differentiation Examples/Inverse of a Matrix.md",
     "Math/Calculus/Matrix Differentiation Examples/Cubed Matrix.md",
     "Math/Calculus/Matrix Differentiation Examples/Quadratic Form Differential (definition).md",
     "Math/Calculus/Matrix Differentiation Examples/Matrix Inverse",
