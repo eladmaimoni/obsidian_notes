@@ -3,6 +3,10 @@
 - aspect - $\frac {fov_x} {fov_y}$ , this is the aspect ratio of the camera image.
 - z_near, z_far - these determine how to map z coordinates into the interval $[0, 1]
 
+### Assumptions
+- the pinhole camera is looking at the $-z$ direction
+- the imager span the range $[-1, 1]$ in $y$ direction
+- to deduce the focal length: $\frac 1 f = tan(0.5 \cdot fov_y) \rightarrow f = \frac 1 {tan(0.5 \cdot fov_y)}$ 
 ### Matrix Form
 - $\alpha = \frac {fov_y} {2}$ 
 
@@ -15,18 +19,15 @@ $$
 \end{pmatrix}
 $$
 
-
-### Assumptions
-- the pinhole camera is looking at the $-z$ direction
-- the imager span the range $[-1, 1]$ in both $x$ and $y$ direction
-- the field of view in $x$ is $apsect \cdot fov_y$ 
-
-### Analysis
-1. The focal length is the z-distance of the imager from the origin. and the imager spans $[-1,1]$ in the vertical direction.
-   so if we take a ray $r_y$ that goes on the edge of the vertical field of view we can calulate its projection on the $y$ axis: 
-   $\frac {y'} {f} = \frac 1  {f} = tan(fov_y / 2) \rightarrow f=\frac 1 {tan(fov_y / 2)}$
-2. On the horizontal axis, our imager spans $[-aspect, aspect]$, so if we take a ray $r_x$ and that goes on the edge of the vertical field of view:
-   $\frac {x'} f = \frac {aspect} f = \frac {apsect} {tan(fov_y / 2)}$ 
+- Result after multiplication and divide by $w$:
+	$x' = \frac 1 {aspect} \cdot (f \cdot \frac y {-z})$ 
+	$y' = f \cdot \frac x {-z}$ 
+	
+### Matrix Analysis
+1. the NDC coordinate $y'$ coordinate is deduced using standard pinhole formula $y' = f \cdot \frac y {|z|}$.
+2. The NDC coordinate for $x'$ is deduced similarly (the focal length is the same), however, since the imager in the $x$ dimension is larger by a factor of $aspect$, we divide the result by $apsect$ so that to 'shrink' the range $[-aspect, aspect]$ to $[-1, 1]$. effectively creating a larger imager in that axis.
+   
+3. the Z axis goes through a different manipulation. we need to remember that the $z$ axis is not drawn. the sole purpose of the manipulation is for writing into the depth buffer.
 - the image plane has a span of $[-1, 1]$ in both $x$ and $y$ axis
 - the image plane is located at distance $tan(fov_y / 2)$ 
 
