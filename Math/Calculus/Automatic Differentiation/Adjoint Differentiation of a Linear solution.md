@@ -22,7 +22,7 @@ $$f(\vec {p}) = f(A^{-1}(\vec{p})b)$$
 	3. Solving another equation - computing the vector $v^T = -f'(x)A^{-1}$ which is equivalent to solving the equation $A^Tv = f'(x)$ 
 - Per partial we are left with
 	1. Evaluating $\frac {\partial A(\vec{p})}{\partial p_k}$ 
-	2. Multiplying $v^T(\frac {\partial A(\vec{p})}{\partial p_k} \vec{x})$ 
+	2. Multiplying $v^T(\frac {\partial A(\vec{p})}{\partial p_k} \vec{x})$: matrix multiplication and a dot product.
 ### Why is this a thing?
 - Note we first calculated the outermost differential (the last step in the network)
 - Every time you see an expression involving $A^{-1}$ you need to realize that we don't compute $A^{-1}$ (this is expensive, and requires an extra multiplication afterwards) but instead solve a linear set of equations that evaluates the term containing $A^{-1}$. 

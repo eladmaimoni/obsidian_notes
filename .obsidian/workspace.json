@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Linear solution.md",
+                "file": "Math/Calculus/Matrix Differentiation Examples/Determinant.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "76070d6e02a4428b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Camera Geometry/Calibration Plan Using Kannala-Brandt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "349b28d13803141f",
             "type": "leaf",
             "state": {
@@ -56,6 +44,37 @@
             }
           }
         ]
+      },
+      {
+        "id": "38d0f23ffecb914a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28f724f0922e4d3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Linear Solution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55e094ff22e39cc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Calculus/Matrix Differentiation Examples/Forbinius Norm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Linear solution.md",
+                "file": "Math/Calculus/Matrix Differentiation Examples/Determinant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Linear solution.md",
+                "file": "Math/Calculus/Matrix Differentiation Examples/Determinant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Linear solution.md"
+                "file": "Math/Calculus/Matrix Differentiation Examples/Determinant.md"
               }
             }
           }
@@ -184,34 +203,35 @@
   },
   "active": "2bad5a0183746975",
   "lastOpenFiles": [
+    "Math/Linear Algebra/Determinant/Determinant Definition = Determinant Properties.md",
+    "Math/Linear Algebra/Determinant/Determinant is the product of the eigenvalues.md",
+    "Math/Calculus/Matrix Differentiation Examples/Determinant.md",
+    "Math/Linear Algebra/Kronecker Product/Eigenvalues of a Kronecker product are permutations of its multiplicants.md",
+    "Math/Linear Algebra/Shur Decomposition.md",
+    "Math/Linear Algebra/Kronecker Product/Kronecker product of positive definite matrices is positive definite.md",
+    "Math/Linear Algebra/Kronecker Product/The determinant of of a Kronecker product is product of its multiplicants determinant powered by the dims of the other multiplicant.md",
+    "Math/Linear Algebra/Kronecker Product/Kronecker Product - Basic Properties.md",
+    "Math/Calculus/Matrix Differentiation Examples/Forbinius Norm.md",
+    "Math/Camera Geometry/Calibration Plan Using Kannala-Brandt.md",
+    "Math/Calculus/Matrix Differentiation Examples/Untitled 1.md",
     "Math/Calculus/Limit Definition.md",
-    "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Linear solution.md",
-    "Math/Calculus/Automatic Differentiation",
+    "Math/Calculus/Limit of a product equals to the product of limits.md",
     "Math/Calculus/Chain Rule (Matrix Derivative).md",
+    "Vision & Math libraries.md",
+    "Math/Calculus/Matrix Gradient - Dot Product.md",
+    "Math/Calculus/Product Rule (Matrix Derivative).md",
+    "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Nonlinear Solution.md",
+    "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Linear Solution.md",
     "Cheat Sheets/CMake Cheat Sheet.md",
-    "Math/Calculus/Matrix Differentiation Examples/Untitled.md",
+    "Cheat Sheets/Docker Cheat Sheet.md",
+    "Math/Calculus/Automatic Differentiation/Untitled",
+    "Math/Calculus/Automatic Differentiation",
     "Math/Calculus/Matrix Differentiation Examples/Warp Function.md",
     "Math/Calculus/Matrix Differentiation Examples/Quadratic Form Differential (definition).md",
     "Math/Calculus/Matrix Differentiation Examples/Inverse of a Matrix.md",
-    "Math/Calculus/Matrix Differentiation Examples/Forbinius Norm.md",
     "Math/Calculus/Matrix Differentiation Examples/Cubed Matrix.md",
     "Math/Calculus/Newton Method (multivariable).md",
-    "Vision & Math libraries.md",
-    "Math/math.md",
-    "Math/Camera Geometry/Graphics - Perspective Camera.md",
-    "Math/Camera Geometry/Calibration Plan Using Kannala-Brandt.md",
-    "Math/Planning.md",
-    "Math/Linear Algebra/Linear Maps/Example - Dimension of a linear map.md",
-    "Math/Linear Algebra/Kronecker Product/Kronecker Product - Basic Properties.md",
     "Math/Linear Algebra/Linear Maps",
-    "Math/Calculus/Product Rule (Matrix Derivative).md",
-    "Math/Calculus/Limit of a product equals to the product of limits.md",
-    "Math/Linear Algebra/Kronecker Product/Eigenvalues of a Kronecker product are permutations of its multiplicants.md",
-    "Math/Linear Algebra/Kronecker Product/Kronecker product of positive definite matrices is positive definite.md",
-    "Math/Linear Algebra/Kronecker Product/The determinant of of a Kronecker product is product of its multiplicants determinant powered by the dims of the other multiplicant.md",
-    "Math/Linear Algebra/Shur Decomposition.md",
-    "Math/Linear Algebra/Rank/Rank of A equals rank of transpose(A).md",
-    "Math/Linear Algebra/Rank/Rank of ATA equal rank of A.md",
     "Math/Calculus/Matrix Differentiation Examples/Matrix Inverse",
     "Math/Calculus/Matrix Differentiation Examples",
     "Pasted image 20240308134013.png",
@@ -219,7 +239,6 @@
     "Math/Sets",
     "Math/Linear Algebra/Rank",
     "Math/Linear Algebra/Determinant",
-    "Math/Linear Algebra/Eigenvalues",
-    "Math/Linear Algebra/Positive Definite"
+    "Math/Linear Algebra/Eigenvalues"
   ]
 }
