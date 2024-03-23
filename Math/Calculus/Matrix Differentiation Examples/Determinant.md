@@ -22,8 +22,11 @@ Other Differential forms:
 ### Proof using tricks
 - let's evaluate the term $det(I + dA)$.
 - If you remember the determinant definition, it is the sum of $N!$ permutations, each permutation multiplies the samples of 1 element per row.
-- The only permutation that creates a product where there are terms which are not high order (>2) terms of the elements of $dA$ is the permutation that chooses the diagonal elements.
+- The only permutation that creates a product where there are terms which are not of high order (>2) of $dA$'s elements, is the permutation that chooses the diagonal elements.
 - hence $det(I+dA) = \prod(1+dA_{ii}) = 1 + trace(dA)$ after neglecting higher order terms.
 - Note, any permutation that does not choose all its elements on the diagonal, has at least 2 non diagonal elements and hence neglected.
+- Same trick applies to expression such as $det(I + BdA) = 1 + trace(BdA)$ since the only terms which do not contain elements with higher order multiplication of $dA$'s are the ones on the diagonal.
 
-$det(A + dA) = det(A + A(A^{-1})dA) = det(A)det(I + A^{-1}dA)$  
+Now we can evaluate the differential:
+$$det(A + dA) = det(A + A(A^{-1})dA) = det(A)det(I + A^{-1}dA) = det(A)(1 + trace(A^{-1}dA))$$
+$$df = det(A + dA) - det(A) = det(A)trace(A^{-1}dA)$$ 
