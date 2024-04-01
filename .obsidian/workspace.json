@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Camera Geometry/Graphics - Spheric Camera.md",
+                "file": "Math/Calculus/Differentiating Functionals (Calculus of Variations).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Camera Geometry/Graphics - Spheric Camera.md",
+                "file": "Math/Calculus/Differentiating Functionals (Calculus of Variations).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Camera Geometry/Graphics - Spheric Camera.md",
+                "file": "Math/Calculus/Differentiating Functionals (Calculus of Variations).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Camera Geometry/Graphics - Spheric Camera.md"
+                "file": "Math/Calculus/Differentiating Functionals (Calculus of Variations).md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "0675054ec6698b86",
   "lastOpenFiles": [
-    "Math/Camera Geometry/Graphics - Perspective Camera.md",
     "Math/Camera Geometry/Graphics - Spheric Camera.md",
+    "Math/Calculus/Differentiating Functionals (Calculus of Variations).md",
+    "Math/Camera Geometry/Graphics - Perspective Camera.md",
     "Software/Vulkan/Sharing Descriptor Sets Between Pipelines.md",
     "Software/Vulkan/Conventions.md",
     "Math/Calculus/Automatic Differentiation/Automatic Differentiation.md",
@@ -188,7 +189,6 @@
     "Math/Linear Algebra/Determinant/Determinant Definition = Determinant Properties.md",
     "Math/Linear Algebra/Determinant/Determinant is the product of the eigenvalues.md",
     "Math/Linear Algebra/Kronecker Product/Eigenvalues of a Kronecker product are permutations of its multiplicants.md",
-    "Math/Linear Algebra/Shur Decomposition.md",
     "Math/Calculus/Automatic Differentiation/Untitled",
     "Math/Calculus/Automatic Differentiation",
     "Math/Linear Algebra/Linear Maps",
