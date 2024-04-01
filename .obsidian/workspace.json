@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0675054ec6698b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Camera Geometry/Graphics - Spheric Camera.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Camera Geometry/Graphics - Perspective Camera.md",
+                "file": "Math/Camera Geometry/Graphics - Spheric Camera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Camera Geometry/Graphics - Perspective Camera.md",
+                "file": "Math/Camera Geometry/Graphics - Spheric Camera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Camera Geometry/Graphics - Perspective Camera.md"
+                "file": "Math/Camera Geometry/Graphics - Spheric Camera.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2644514f022260bc",
+  "active": "0675054ec6698b86",
   "lastOpenFiles": [
+    "Math/Camera Geometry/Graphics - Perspective Camera.md",
+    "Math/Camera Geometry/Graphics - Spheric Camera.md",
     "Software/Vulkan/Sharing Descriptor Sets Between Pipelines.md",
     "Software/Vulkan/Conventions.md",
     "Math/Calculus/Automatic Differentiation/Automatic Differentiation.md",
@@ -174,8 +189,6 @@
     "Math/Linear Algebra/Determinant/Determinant is the product of the eigenvalues.md",
     "Math/Linear Algebra/Kronecker Product/Eigenvalues of a Kronecker product are permutations of its multiplicants.md",
     "Math/Linear Algebra/Shur Decomposition.md",
-    "Math/Linear Algebra/Kronecker Product/Kronecker product of positive definite matrices is positive definite.md",
-    "Math/Linear Algebra/Kronecker Product/The determinant of of a Kronecker product is product of its multiplicants determinant powered by the dims of the other multiplicant.md",
     "Math/Calculus/Automatic Differentiation/Untitled",
     "Math/Calculus/Automatic Differentiation",
     "Math/Linear Algebra/Linear Maps",
