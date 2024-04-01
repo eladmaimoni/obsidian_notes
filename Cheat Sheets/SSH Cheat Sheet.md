@@ -28,4 +28,9 @@ Host linux-nuc
      User dev   
      IdentityFile ~/.ssh/id_rsa
 ```
-- Note the IdentityFile. this lets you automatically connect\
+- Note the IdentityFile. this lets you automatically connect
+
+### Copying a remote folder using `scp` command
+```
+scp -r nvidia@192.168.3.101:/home/nvidia/config_files /c/
+```

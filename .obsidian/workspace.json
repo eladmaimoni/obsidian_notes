@@ -4,77 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2b69afa1eced0799",
+        "id": "9b19d3bd8cf51221",
         "type": "tabs",
         "children": [
           {
-            "id": "2bad5a0183746975",
+            "id": "2644514f022260bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus/Matrix Differentiation Examples/Determinant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42d58ac3daa45f64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Calculus/Matrix Differentiation Examples/Forbinius Norm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "349b28d13803141f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Linear Algebra/Kronecker Product/Kronecker Product - Basic Properties.md",
+                "file": "Math/Camera Geometry/Graphics - Perspective Camera.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "38d0f23ffecb914a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "28f724f0922e4d3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Linear Solution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55e094ff22e39cc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Calculus/Matrix Differentiation Examples/Forbinius Norm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Calculus/Matrix Differentiation Examples/Determinant.md",
+                "file": "Math/Camera Geometry/Graphics - Perspective Camera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Calculus/Matrix Differentiation Examples/Determinant.md",
+                "file": "Math/Camera Geometry/Graphics - Perspective Camera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Calculus/Matrix Differentiation Examples/Determinant.md"
+                "file": "Math/Camera Geometry/Graphics - Perspective Camera.md"
               }
             }
           }
@@ -201,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bad5a0183746975",
+  "active": "2644514f022260bc",
   "lastOpenFiles": [
+    "Software/Vulkan/Sharing Descriptor Sets Between Pipelines.md",
+    "Software/Vulkan/Conventions.md",
+    "Math/Calculus/Automatic Differentiation/Automatic Differentiation.md",
+    "Software/Vulkan",
+    "Software/Architecture/Rendering Scene.md",
+    "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Linear Solution.md",
+    "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Nonlinear Solution.md",
+    "Cheat Sheets/SSH Cheat Sheet.md",
+    "Software/Architecture",
+    "Math/Calculus/Chain Rule (Matrix Derivative).md",
+    "Math/Calculus/Product Rule (Matrix Derivative).md",
+    "Math/Calculus/Newton Method (multivariable).md",
+    "Math/Calculus/Matrix Gradient - Dot Product.md",
+    "Math/Calculus/Limit of a product equals to the product of limits.md",
+    "Math/Calculus/Limit Definition.md",
+    "Math/Calculus/Matrix Differentiation Examples/Warp Function.md",
+    "Math/Calculus/Matrix Differentiation Examples/Quadratic Form Differential (definition).md",
+    "Math/Linear Algebra/Kronecker Product/Kronecker Product - Basic Properties.md",
+    "Math/Calculus/Matrix Differentiation Examples/Forbinius Norm.md",
+    "Math/Calculus/Matrix Differentiation Examples/Inverse of a Matrix.md",
+    "Math/Calculus/Matrix Differentiation Examples/Determinant.md",
+    "Math/Calculus/Matrix Differentiation Examples/Cubed Matrix.md",
     "Math/Linear Algebra/Determinant/Determinant Definition = Determinant Properties.md",
     "Math/Linear Algebra/Determinant/Determinant is the product of the eigenvalues.md",
-    "Math/Calculus/Matrix Differentiation Examples/Determinant.md",
     "Math/Linear Algebra/Kronecker Product/Eigenvalues of a Kronecker product are permutations of its multiplicants.md",
     "Math/Linear Algebra/Shur Decomposition.md",
     "Math/Linear Algebra/Kronecker Product/Kronecker product of positive definite matrices is positive definite.md",
     "Math/Linear Algebra/Kronecker Product/The determinant of of a Kronecker product is product of its multiplicants determinant powered by the dims of the other multiplicant.md",
-    "Math/Linear Algebra/Kronecker Product/Kronecker Product - Basic Properties.md",
-    "Math/Calculus/Matrix Differentiation Examples/Forbinius Norm.md",
-    "Math/Camera Geometry/Calibration Plan Using Kannala-Brandt.md",
-    "Math/Calculus/Matrix Differentiation Examples/Untitled 1.md",
-    "Math/Calculus/Limit Definition.md",
-    "Math/Calculus/Limit of a product equals to the product of limits.md",
-    "Math/Calculus/Chain Rule (Matrix Derivative).md",
-    "Vision & Math libraries.md",
-    "Math/Calculus/Matrix Gradient - Dot Product.md",
-    "Math/Calculus/Product Rule (Matrix Derivative).md",
-    "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Nonlinear Solution.md",
-    "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Linear Solution.md",
-    "Cheat Sheets/CMake Cheat Sheet.md",
-    "Cheat Sheets/Docker Cheat Sheet.md",
     "Math/Calculus/Automatic Differentiation/Untitled",
     "Math/Calculus/Automatic Differentiation",
-    "Math/Calculus/Matrix Differentiation Examples/Warp Function.md",
-    "Math/Calculus/Matrix Differentiation Examples/Quadratic Form Differential (definition).md",
-    "Math/Calculus/Matrix Differentiation Examples/Inverse of a Matrix.md",
-    "Math/Calculus/Matrix Differentiation Examples/Cubed Matrix.md",
-    "Math/Calculus/Newton Method (multivariable).md",
     "Math/Linear Algebra/Linear Maps",
     "Math/Calculus/Matrix Differentiation Examples/Matrix Inverse",
     "Math/Calculus/Matrix Differentiation Examples",
     "Pasted image 20240308134013.png",
     "Math/Calculus",
     "Math/Sets",
-    "Math/Linear Algebra/Rank",
-    "Math/Linear Algebra/Determinant",
-    "Math/Linear Algebra/Eigenvalues"
+    "Math/Linear Algebra/Rank"
   ]
 }
