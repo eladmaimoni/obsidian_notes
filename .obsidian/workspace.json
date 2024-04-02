@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b19d3bd8cf51221",
+        "id": "2b69afa1eced0799",
         "type": "tabs",
         "children": [
           {
-            "id": "2644514f022260bc",
+            "id": "1239889c83cd6bc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,48 @@
             }
           },
           {
-            "id": "0675054ec6698b86",
+            "id": "fdabdc4dfc7c6ad4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus/Differentiating Functionals (Calculus of Variations).md",
+                "file": "Math/Camera Geometry/Graphics - Perspective Camera.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bad5a0183746975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Calculus/Matrix Differentiation Examples/Inverse of a Matrix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76070d6e02a4428b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Camera Geometry/Calibration Plan Using Kannala-Brandt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "349b28d13803141f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Linear Algebra/Kronecker Product/Kronecker Product - Basic Properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +69,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "7b3d0538d9d669db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c017268a0a39df8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Calculus/Chain Rule (Matrix Derivative).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Calculus/Differentiating Functionals (Calculus of Variations).md",
+                "file": "Math/Camera Geometry/Graphics - Perspective Camera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Calculus/Differentiating Functionals (Calculus of Variations).md",
+                "file": "Math/Camera Geometry/Graphics - Perspective Camera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Calculus/Differentiating Functionals (Calculus of Variations).md"
+                "file": "Math/Camera Geometry/Graphics - Perspective Camera.md"
               }
             }
           }
@@ -159,44 +213,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0675054ec6698b86",
+  "active": "fdabdc4dfc7c6ad4",
   "lastOpenFiles": [
-    "Math/Camera Geometry/Graphics - Spheric Camera.md",
-    "Math/Calculus/Differentiating Functionals (Calculus of Variations).md",
-    "Math/Camera Geometry/Graphics - Perspective Camera.md",
     "Software/Vulkan/Sharing Descriptor Sets Between Pipelines.md",
     "Software/Vulkan/Conventions.md",
-    "Math/Calculus/Automatic Differentiation/Automatic Differentiation.md",
     "Software/Vulkan",
     "Software/Architecture/Rendering Scene.md",
-    "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Linear Solution.md",
-    "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Nonlinear Solution.md",
-    "Cheat Sheets/SSH Cheat Sheet.md",
     "Software/Architecture",
-    "Math/Calculus/Chain Rule (Matrix Derivative).md",
-    "Math/Calculus/Product Rule (Matrix Derivative).md",
-    "Math/Calculus/Newton Method (multivariable).md",
-    "Math/Calculus/Matrix Gradient - Dot Product.md",
-    "Math/Calculus/Limit of a product equals to the product of limits.md",
-    "Math/Calculus/Limit Definition.md",
-    "Math/Calculus/Matrix Differentiation Examples/Warp Function.md",
-    "Math/Calculus/Matrix Differentiation Examples/Quadratic Form Differential (definition).md",
-    "Math/Linear Algebra/Kronecker Product/Kronecker Product - Basic Properties.md",
-    "Math/Calculus/Matrix Differentiation Examples/Forbinius Norm.md",
-    "Math/Calculus/Matrix Differentiation Examples/Inverse of a Matrix.md",
-    "Math/Calculus/Matrix Differentiation Examples/Determinant.md",
-    "Math/Calculus/Matrix Differentiation Examples/Cubed Matrix.md",
-    "Math/Linear Algebra/Determinant/Determinant Definition = Determinant Properties.md",
-    "Math/Linear Algebra/Determinant/Determinant is the product of the eigenvalues.md",
-    "Math/Linear Algebra/Kronecker Product/Eigenvalues of a Kronecker product are permutations of its multiplicants.md",
-    "Math/Calculus/Automatic Differentiation/Untitled",
+    "Math/Calculus/Automatic Differentiation/Automatic Differentiation.md",
+    "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Nonlinear Solution.md",
+    "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Linear solution.md",
     "Math/Calculus/Automatic Differentiation",
+    "Cheat Sheets/CMake Cheat Sheet.md",
+    "Math/Calculus/Chain Rule (Matrix Derivative).md",
+    "Math/Camera Geometry/Graphics - Perspective Camera.md",
+    "Math/Calculus/Matrix Differentiation Examples/Quadratic Form Differential (definition).md",
+    "Math/Calculus/Matrix Differentiation Examples/Forbinius Norm.md",
+    "Math/Calculus/Matrix Differentiation Examples/Cubed Matrix.md",
+    "Math/Planning.md",
+    "Math/Linear Algebra/Linear Maps/Example - Dimension of a linear map.md",
+    "Math/Linear Algebra/Kronecker Product/Kronecker Product - Basic Properties.md",
     "Math/Linear Algebra/Linear Maps",
+    "Math/Calculus/Product Rule (Matrix Derivative).md",
+    "Math/Calculus/Matrix Differentiation Examples/Inverse of a Matrix.md",
+    "Math/Calculus/Matrix Differentiation Examples/Warp Function.md",
+    "Math/Camera Geometry/Calibration Plan Using Kannala-Brandt.md",
+    "Math/Calculus/Limit Definition.md",
+    "Math/Calculus/Limit of a product equals to the product of limits.md",
+    "Math/Linear Algebra/Kronecker Product/Eigenvalues of a Kronecker product are permutations of its multiplicants.md",
+    "Math/Linear Algebra/Kronecker Product/Kronecker product of positive definite matrices is positive definite.md",
+    "Math/Linear Algebra/Kronecker Product/The determinant of of a Kronecker product is product of its multiplicants determinant powered by the dims of the other multiplicant.md",
+    "Math/Linear Algebra/Shur Decomposition.md",
+    "Math/Linear Algebra/Rank/Rank of A equals rank of transpose(A).md",
     "Math/Calculus/Matrix Differentiation Examples/Matrix Inverse",
     "Math/Calculus/Matrix Differentiation Examples",
     "Pasted image 20240308134013.png",
     "Math/Calculus",
     "Math/Sets",
-    "Math/Linear Algebra/Rank"
+    "Math/Linear Algebra/Rank",
+    "Math/Linear Algebra/Determinant"
   ]
 }
