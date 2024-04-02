@@ -7,7 +7,12 @@
 - the pinhole camera is looking at the $-z$ direction
 - the imager span the range $[-1, 1]$ in $y$ direction
 - to deduce the focal length: $\frac 1 f = tan(0.5 \cdot fov_y) \rightarrow f = \frac 1 {tan(0.5 \cdot fov_y)}$ 
-### Matrix Form
+
+### Resources
+- [on the difference between Vulkan and OpenGL convention](https://matthewwellings.com/blog/the-new-vulkan-coordinate-system/)
+### Matrix Form - Vulkan
+- 
+### Matrix Form - OpenGL
 - $\alpha = \frac {fov_y} {2}$ 
 
 $$
@@ -22,13 +27,14 @@ $$
 - Result after multiplication and divide by $w$:
 	$x' = \frac 1 {aspect} \cdot (f \cdot \frac y {-z})$ 
 	$y' = f \cdot \frac x {-z}$ 
+	$z' = \frac {z \cdot (z_{far} + z_{near}) + 2(z_{near}z_{far})} {z(z_{far} - z_{near})}$ 
 	
 ### Matrix Analysis
 1. the NDC coordinate $y'$ coordinate is deduced using standard pinhole formula $y' = f \cdot \frac y {|z|}$.
 2. The NDC coordinate for $x'$ is deduced similarly (the focal length is the same), however, since the imager in the $x$ dimension is larger by a factor of $aspect$, we divide the result by $apsect$ so that to 'shrink' the range $[-aspect, aspect]$ to $[-1, 1]$. effectively creating a larger imager in that axis.
-   
 3. the Z axis goes through a different manipulation. we need to remember that the $z$ axis is not drawn. the sole purpose of the manipulation is for writing into the depth buffer.
-- the image plane has a span of $[-1, 1]$ in both $x$ and $y$ axis
+   $z'(z_near) = 
+  the image plane has a span of $[-1, 1]$ in both $x$ and $y$ axis
 - the image plane is located at distance $tan(fov_y / 2)$ 
 
 - if you think of a standard pinhole camera, then the image plane has a dimention of 
