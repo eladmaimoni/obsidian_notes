@@ -38,4 +38,6 @@ $$
      - Calculate $df$ with respect to changes in $A$: $df = -A^{-1}dA\,A^{-1}$
      - Then calculate $dA$, substituting whatever the result is with some expression that depends on $dp$: $A'(p)[dp]$
      - Note that it didn't seemed like we evaluated the chain rule, but essentially we did.
+     
+ 2. 
     

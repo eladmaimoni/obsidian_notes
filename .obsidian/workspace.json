@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus/Differentials/Chain Rule (Matrix Derivative).md",
+                "file": "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "87ba047c12e8ede6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49f1ca49c661cc04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Calculus/Differentials (Not Just for Scalars)/Product Rule (Matrix Derivative).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Calculus/Differentials/Chain Rule (Matrix Derivative).md",
+                "file": "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Calculus/Differentials/Chain Rule (Matrix Derivative).md",
+                "file": "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Calculus/Differentials/Chain Rule (Matrix Derivative).md"
+                "file": "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md"
               }
             }
           }
@@ -148,13 +166,17 @@
   },
   "active": "6ca2d249cfb14856",
   "lastOpenFiles": [
+    "Math/Linear Algebra/Trace Properties.md",
+    "Math/Linear Algebra/Shur Decomposition.md",
+    "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md",
+    "Math/Calculus/Differentials (Not Just for Scalars)/Product Rule (Matrix Derivative).md",
+    "Math/Calculus/Differentials (Not Just for Scalars)/Differential and Partial Derivatives.md",
+    "Math/Calculus/Differentials (Not Just for Scalars)/Chain Rule (Matrix Derivative).md",
     "Math/Calculus/Matrix Differentiation Examples/Quadratic Form Differential (definition).md",
     "Math/Calculus/Matrix Differentiation Examples/Inverse of a Matrix.md",
     "Math/Calculus/Matrix Differentiation Examples/Forbinius Norm.md",
     "Math/Calculus/Matrix Differentiation Examples/Determinant.md",
     "Math/Calculus/Matrix Differentiation Examples/Cubed Matrix.md",
-    "Math/Calculus/Differentials/Chain Rule (Matrix Derivative).md",
-    "Math/Calculus/Differentials/Differential and Partial Derivatives.md",
     "Software/Vulkan/rendering camera for cube map.md",
     "Software/Vulkan/Sharing Descriptor Sets Between Pipelines.md",
     "Math/Camera Geometry/Kannala-Brandt Questions.md",
@@ -165,16 +187,12 @@
     "Cheat Sheets/CMake Cheat Sheet.md",
     "Math/math.md",
     "Math/Calculus/Matrix Differentiation Examples/Simple But Weird.md",
-    "Math/Calculus/Differentials/Product Rule (Matrix Derivative).md",
     "Math/Linear Algebra/Eigenvalues/Eigenvalues of Real Symmetric Matrices are Real.md",
-    "Math/Calculus/Differentials/Matrix Gradient - Dot Product.md",
-    "Math/Calculus/Differentials/Second Order Differentials.md",
+    "Math/Calculus/Differentials (Not Just for Scalars)/Second Order Differentials.md",
     "Math/Camera Geometry/Graphics - Perspective Camera.md",
-    "Math/Calculus/Differentials/Limit of a product equals to the product of limits.md",
-    "Math/Calculus/Differentials/Limit Definition.md",
-    "Math/Calculus/Differentials",
-    "Math/Calculus/Differentials/Differentiating Functionals (Calculus of Variations).md",
-    "Math/Calculus/Differentials/Newton Method (multivariable).md",
+    "Math/Calculus/Differentials (Not Just for Scalars)/Limit of a product equals to the product of limits.md",
+    "Math/Calculus/Differentials (Not Just for Scalars)/Limit Definition.md",
+    "Math/Calculus/Differentials (Not Just for Scalars)",
     "Software/Vulkan",
     "Software/Architecture",
     "Math/Calculus/Automatic Differentiation",
