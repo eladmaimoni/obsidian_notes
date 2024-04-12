@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "907f748805f036e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "87ba047c12e8ede6",
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md",
+                "file": "ML/Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md",
+                "file": "ML/Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md"
+                "file": "ML/Roadmap.md"
               }
             }
           }
@@ -164,11 +177,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ca2d249cfb14856",
+  "active": "907f748805f036e2",
   "lastOpenFiles": [
+    "ML/ReLU.md",
+    "ML/Roadmap.md",
+    "ML/Papers",
+    "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md",
+    "ML",
     "Math/Linear Algebra/Trace Properties.md",
     "Math/Linear Algebra/Shur Decomposition.md",
-    "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md",
     "Math/Calculus/Differentials (Not Just for Scalars)/Product Rule (Matrix Derivative).md",
     "Math/Calculus/Differentials (Not Just for Scalars)/Differential and Partial Derivatives.md",
     "Math/Calculus/Differentials (Not Just for Scalars)/Chain Rule (Matrix Derivative).md",
@@ -190,8 +207,6 @@
     "Math/Linear Algebra/Eigenvalues/Eigenvalues of Real Symmetric Matrices are Real.md",
     "Math/Calculus/Differentials (Not Just for Scalars)/Second Order Differentials.md",
     "Math/Camera Geometry/Graphics - Perspective Camera.md",
-    "Math/Calculus/Differentials (Not Just for Scalars)/Limit of a product equals to the product of limits.md",
-    "Math/Calculus/Differentials (Not Just for Scalars)/Limit Definition.md",
     "Math/Calculus/Differentials (Not Just for Scalars)",
     "Software/Vulkan",
     "Software/Architecture",
@@ -200,8 +215,6 @@
     "Math/Calculus/Matrix Differentiation Examples/Matrix Inverse",
     "Math/Calculus/Matrix Differentiation Examples",
     "Pasted image 20240308134013.png",
-    "Math/Calculus",
-    "Math/Sets",
-    "Math/Linear Algebra/Rank"
+    "Math/Calculus"
   ]
 }
