@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus/Differentials/Differential and Partial Derivatives.md",
+                "file": "Math/Calculus/Differentials/Chain Rule (Matrix Derivative).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 451.5
   },
   "right": {
     "id": "67cb1b068e0d1f86",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Calculus/Differentials/Differential and Partial Derivatives.md",
+                "file": "Math/Calculus/Differentials/Chain Rule (Matrix Derivative).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Calculus/Differentials/Differential and Partial Derivatives.md",
+                "file": "Math/Calculus/Differentials/Chain Rule (Matrix Derivative).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Calculus/Differentials/Differential and Partial Derivatives.md"
+                "file": "Math/Calculus/Differentials/Chain Rule (Matrix Derivative).md"
               }
             }
           }
@@ -148,13 +148,24 @@
   },
   "active": "6ca2d249cfb14856",
   "lastOpenFiles": [
-    "Math/Calculus/Matrix Differentiation Examples/Cubed Matrix.md",
-    "Math/Calculus/Differentials/Differential and Partial Derivatives.md",
-    "Math/Calculus/Matrix Differentiation Examples/Simple But Weird.md",
-    "Math/Calculus/Matrix Differentiation Examples/Determinant.md",
+    "Math/Calculus/Matrix Differentiation Examples/Quadratic Form Differential (definition).md",
     "Math/Calculus/Matrix Differentiation Examples/Inverse of a Matrix.md",
-    "Math/Calculus/Differentials/Product Rule (Matrix Derivative).md",
+    "Math/Calculus/Matrix Differentiation Examples/Forbinius Norm.md",
+    "Math/Calculus/Matrix Differentiation Examples/Determinant.md",
+    "Math/Calculus/Matrix Differentiation Examples/Cubed Matrix.md",
     "Math/Calculus/Differentials/Chain Rule (Matrix Derivative).md",
+    "Math/Calculus/Differentials/Differential and Partial Derivatives.md",
+    "Software/Vulkan/rendering camera for cube map.md",
+    "Software/Vulkan/Sharing Descriptor Sets Between Pipelines.md",
+    "Math/Camera Geometry/Kannala-Brandt Questions.md",
+    "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Linear Solution.md",
+    "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Nonlinear Solution.md",
+    "Math/Camera Geometry/Whaba's Problem.md",
+    "Math/Linear Algebra/Determinant/Determinant Definition = Determinant Properties.md",
+    "Cheat Sheets/CMake Cheat Sheet.md",
+    "Math/math.md",
+    "Math/Calculus/Matrix Differentiation Examples/Simple But Weird.md",
+    "Math/Calculus/Differentials/Product Rule (Matrix Derivative).md",
     "Math/Linear Algebra/Eigenvalues/Eigenvalues of Real Symmetric Matrices are Real.md",
     "Math/Calculus/Differentials/Matrix Gradient - Dot Product.md",
     "Math/Calculus/Differentials/Second Order Differentials.md",
@@ -164,19 +175,8 @@
     "Math/Calculus/Differentials",
     "Math/Calculus/Differentials/Differentiating Functionals (Calculus of Variations).md",
     "Math/Calculus/Differentials/Newton Method (multivariable).md",
-    "Ideas/Interesting Things to Learn.md",
-    "Math/Linear Algebra/Kronecker Product/Kronecker Product - Basic Properties.md",
-    "Math/Camera Geometry/Graphics - Spheric Camera.md",
-    "Math/Camera Geometry/Kannala-Brandt 2 - Distorted Pixel to Ray.md",
-    "Math/Camera Geometry/Kannala-Brandt 1 - Ray to Distorted Pixel.md",
-    "Math/Camera Geometry/Calibration Plan Using Kannala-Brandt.md",
-    "Software/Vulkan/Sharing Descriptor Sets Between Pipelines.md",
-    "Software/Vulkan/Conventions.md",
     "Software/Vulkan",
-    "Software/Architecture/Rendering Scene.md",
     "Software/Architecture",
-    "Math/Calculus/Automatic Differentiation/Automatic Differentiation.md",
-    "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Nonlinear Solution.md",
     "Math/Calculus/Automatic Differentiation",
     "Math/Linear Algebra/Linear Maps",
     "Math/Calculus/Matrix Differentiation Examples/Matrix Inverse",

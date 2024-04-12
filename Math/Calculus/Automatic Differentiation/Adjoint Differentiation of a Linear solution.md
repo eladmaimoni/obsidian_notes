@@ -11,15 +11,15 @@ $$f(\vec {p}) = f(A^{-1}(\vec{p})b)$$
 1. Compute the differential $df$ at our current point $\vec{p}$ according to the chain rule: $df = -f'(x)A^{-1}dA\,A^{-1}b$  
 2. In our case, $dA = d(A(\vec{p}))$. This is a complex term on its own right (its not simply $A(d \vec{p})$ since we don't know if $A$ behaves linearly with respect to $p$).
 3. But, computing the partials $\frac {\partial A(\vec{p})}{\partial p_k}$ is relatively easy - simply the partial derivative of each element $a_{ij}$.
-4. So we can compute the gradient components $\frac {\partial f}{\partial p_k} = -f'(x)A^{-1} \frac {\partial A}{\partial p_k}\,A^{-1}b$  
+4. So we can compute the gradient components $\frac {\partial f}{\partial p_k} = -f'(x)\big[A^{-1} \frac {\partial A}{\partial p_k}\,A^{-1}b\big]$  
 5. Note that $\vec{x} = A^{-1}(\vec{p})b$ so that
-   $$\frac {\partial f}{\partial p_k} = -f'(x)A^{-1} \frac {\partial A}{\partial p_k}\,\vec{x}$$  
+   $$\frac {\partial f}{\partial p_k} = -f'(x)\big[A^{-1} \frac {\partial A}{\partial p_k}\,\vec{x}\big]$$  
 ### Adjoint Differentiation
 - The point is to show that we can compute $\nabla f$ at each point $\vec{p}$ efficiently by reducing the amount of computations we do per partial derivatives.
 - Calculations that are uniform across all partials:
 	1. Solving a linear equation to get $\vec{x} = A^{-1}(\vec{p})b$
-	2. Computing the gradient of $f$ at point $\vec{x}$
-	3. Solving another equation - computing the vector $v^T = -f'(x)A^{-1}$ which is equivalent to solving the equation $A^Tv = f'(x)$ 
+	2. Computing the vector $f'(\vec{x})$ (it must be a vector, note the dimensions)
+	3. Solving another equation - computing the vector $v^T = -f'(x)A^{-1}$ which is equivalent to solving the equation $A^Tv = -[f'(x)]^T$ 
 - Per partial we are left with
 	1. Evaluating $\frac {\partial A(\vec{p})}{\partial p_k}$ 
 	2. Multiplying $v^T(\frac {\partial A(\vec{p})}{\partial p_k} \vec{x})$: matrix multiplication and a dot product.
