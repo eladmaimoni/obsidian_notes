@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md",
+                "file": "ML/ML Roadmap.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "907f748805f036e2",
+            "id": "a552bc52913202a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Roadmap.md",
+                "file": "ML/ML Roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus/Differentials (Not Just for Scalars)/Product Rule (Matrix Derivative).md",
+                "file": "Software/Vulkan/rendering camera for cube map.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Roadmap.md",
+                "file": "Software/Vulkan/rendering camera for cube map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Roadmap.md",
+                "file": "Software/Vulkan/rendering camera for cube map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Roadmap.md"
+                "file": "Software/Vulkan/rendering camera for cube map.md"
               }
             }
           }
@@ -177,16 +177,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "907f748805f036e2",
+  "active": "49f1ca49c661cc04",
   "lastOpenFiles": [
-    "ML/ReLU.md",
-    "ML/Roadmap.md",
-    "ML/Papers",
+    "Math/Calculus/Differentials (Not Just for Scalars)/Product Rule (Matrix Derivative).md",
+    "ML/ML Roadmap.md",
+    "Soft Skills/Procreate.md",
     "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md",
+    "Math/Planning.md",
+    "Math/Untitled.md",
+    "Math/math.md",
+    "Soft Skills/Persuading.md",
+    "ML/ReLU.md",
+    "ML/Papers",
     "ML",
     "Math/Linear Algebra/Trace Properties.md",
     "Math/Linear Algebra/Shur Decomposition.md",
-    "Math/Calculus/Differentials (Not Just for Scalars)/Product Rule (Matrix Derivative).md",
     "Math/Calculus/Differentials (Not Just for Scalars)/Differential and Partial Derivatives.md",
     "Math/Calculus/Differentials (Not Just for Scalars)/Chain Rule (Matrix Derivative).md",
     "Math/Calculus/Matrix Differentiation Examples/Quadratic Form Differential (definition).md",
@@ -202,11 +207,6 @@
     "Math/Camera Geometry/Whaba's Problem.md",
     "Math/Linear Algebra/Determinant/Determinant Definition = Determinant Properties.md",
     "Cheat Sheets/CMake Cheat Sheet.md",
-    "Math/math.md",
-    "Math/Calculus/Matrix Differentiation Examples/Simple But Weird.md",
-    "Math/Linear Algebra/Eigenvalues/Eigenvalues of Real Symmetric Matrices are Real.md",
-    "Math/Calculus/Differentials (Not Just for Scalars)/Second Order Differentials.md",
-    "Math/Camera Geometry/Graphics - Perspective Camera.md",
     "Math/Calculus/Differentials (Not Just for Scalars)",
     "Software/Vulkan",
     "Software/Architecture",

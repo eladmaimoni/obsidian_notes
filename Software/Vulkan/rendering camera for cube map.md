@@ -20,6 +20,13 @@ Alternative approach:
 3. declare the matrices in an array inside the shader - per view!
    this is simple.
 
+### Sampling the cubemap
+- we can calculate the forward and up vector of the spheric camera (after rotation)
+  this can give us the sampling coordinate of the central pixel
+- for other pixels, we need to pass the radians per pixel of the last calculated roi
+- we then need to offset this ray by (azimuth, elevation) to sample the correct location.
+- there is also the blending aspect: for each pixel, we need to blend it with the existing content of the texture (or simply write it in the same shader, already blended)
+
 
 
 
