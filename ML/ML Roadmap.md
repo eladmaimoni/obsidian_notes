@@ -2,8 +2,10 @@
 - [x] Understanding Deep Learning - Supervised Learning
 - [x] Linear Regression - Basic understanding of the term and what differentiate it from least squares
 - [x] Understanding Deep Learning - Chapter 3 - Shallow Neural Networks
-- [ ] Understanding Deep Learning - Chapter 4 - Deep Neural Networks
-- [ ] dsf
+- [x] Understanding Deep Learning - Chapter 4 - Deep Neural Networks
+- [ ] Understanding Deep Learning - Chapter 5 - Loss Functions
+- [ ] [AI Summer - MLE](https://theaisummer.com/mle/)
+- [ ] [Understand KL Divergence, Cross Entropy Loss](https://ramsane.github.io/articles/cross-entropy-explained-with-entropy-and-kl-divergence)
 - [ ] gsdgf
 - [ ] dsgf
 - [ ] dsg

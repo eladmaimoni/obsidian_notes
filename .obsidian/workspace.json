@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/State Estimation/Alpha Beta Filter For Velocity.md",
+                "file": "Math/Probability And Uncertainty/KL Divergence.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/State Estimation/Alpha Beta Filter For Velocity.md",
+                "file": "Math/Probability And Uncertainty/KL Divergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/State Estimation/Alpha Beta Filter For Velocity.md",
+                "file": "Math/Probability And Uncertainty/KL Divergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/State Estimation/Alpha Beta Filter For Velocity.md"
+                "file": "Math/Probability And Uncertainty/KL Divergence.md"
               }
             }
           }
@@ -172,18 +172,21 @@
   },
   "active": "49f1ca49c661cc04",
   "lastOpenFiles": [
+    "ML/ML Roadmap.md",
+    "Math/Probability And Uncertainty/KL Divergence.md",
+    "Math/Probability And Uncertainty/Uncertainty Reduction Factor.md",
+    "Math/Probability And Uncertainty",
+    "ML/ReLU.md",
     "Soft Skills/Procreate.md",
+    "Soft Skills/Persuading.md",
+    "Math/Planning.md",
     "Math/State Estimation/Alpha Beta Filter For Velocity.md",
     "Math/State Estimation",
-    "Math/Planning.md",
     "Software/Vulkan/rendering camera for cube map.md",
     "Math/Calculus/Differentials (Not Just for Scalars)/Product Rule (Matrix Derivative).md",
-    "ML/ML Roadmap.md",
     "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md",
     "Math/Untitled.md",
     "Math/math.md",
-    "Soft Skills/Persuading.md",
-    "ML/ReLU.md",
     "ML/Papers",
     "ML",
     "Math/Linear Algebra/Trace Properties.md",
@@ -199,15 +202,12 @@
     "Math/Camera Geometry/Kannala-Brandt Questions.md",
     "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Linear Solution.md",
     "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Nonlinear Solution.md",
-    "Math/Camera Geometry/Whaba's Problem.md",
-    "Math/Linear Algebra/Determinant/Determinant Definition = Determinant Properties.md",
     "Math/Calculus/Differentials (Not Just for Scalars)",
     "Software/Vulkan",
     "Software/Architecture",
     "Math/Calculus/Automatic Differentiation",
     "Math/Linear Algebra/Linear Maps",
     "Math/Calculus/Matrix Differentiation Examples/Matrix Inverse",
-    "Math/Calculus/Matrix Differentiation Examples",
     "Pasted image 20240308134013.png"
   ]
 }

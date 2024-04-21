@@ -15,9 +15,10 @@ Key Sentences
 - Making significant contributions without being blocked by politics, improper infrastructure, ego.
 - Some level of freedom to bring in my own ideas.
 - 
-# Questions:
+
 
 ### Role
+- I know that whatever role i'm in, i'll do a significant amount of system and infrastructure development.
 - Will there be opportunities to work on things involve more math (animation / geometry shading)?
 - Freedom of choice in tooling, libraries? How hard do you think it is to introduce new tools and libraries?
 - Mentality - let's implement it ourselves / let's find a library that does this?
