@@ -3,6 +3,18 @@ Key Sentences
 - Outline the Role
 - Transparent
 - Lay out
+### Things to Talk About
+- system programming principles: 
+	- layered approach
+	- single point of truth (no state duplication)
+	- unidirectional dataflow.
+	- law of Demeter and IOC - design for change
+	- data oriented for performance & flexibility, OOP for abstraction
+- Projects: 
+	- Beyeonics: TORIC IOL
+	- Beyeonics: DMA architecture (video in, graphics out in subframe latency)
+	- Ultrawis: Flutter Embedder
+	- Ultrawis: Realtime panoramic stiching, automatic calibration process (with a press of a button)
 
 ### Why
 - Genuinely curious about Tasmania, culture.
@@ -23,12 +35,14 @@ Key Sentences
 - Freedom of choice in tooling, libraries? How hard do you think it is to introduce new tools and libraries?
 - Mentality - let's implement it ourselves / let's find a library that does this?
 
-### Technicalities:
+### Technicalities / Processes:
 - Version Control?
 - Compile without warnings?
 - Code Reviews? would you describe the contributing process as efficient?
-- Do you think the development process is efficient?
-- 
+- Do you think the development process is efficient? Is it easy to make significant contributions?
+- What do you think would be the most challenging aspcet in this position?
+- Do you have any idea who I will be working aside with?
+- What am I not asking you that I should?
 ### Work Environment / Team
 - Engineering Manager role?
 - dsf
