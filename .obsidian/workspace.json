@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Camera Geometry/Graphics - Perspective Camera.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdabdc4dfc7c6ad4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Graphics - Spherical Camera.md",
+                "file": "Math/State Estimation/Kalman Filter For Velocity.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,12 +23,8 @@
             "id": "9cdfc7922bfd2a65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cheat Sheets/CMake Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -79,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7b3d0538d9d669db",
@@ -140,8 +123,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheat Sheets/CMake Cheat Sheet.md",
+                "file": "Math/State Estimation/Kalman Filter For Velocity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheat Sheets/CMake Cheat Sheet.md",
+                "file": "Math/State Estimation/Kalman Filter For Velocity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheat Sheets/CMake Cheat Sheet.md"
+                "file": "Math/State Estimation/Kalman Filter For Velocity.md"
               }
             }
           }
@@ -222,8 +204,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ef329af55a35750",
+  "active": "1239889c83cd6bc2",
   "lastOpenFiles": [
+    "Math/Camera Geometry/Graphics - Perspective Camera.md",
+    "Math/State Estimation/Kalman Filter For Velocity.md",
+    "Wiki.md",
+    "Math/State Estimation/Alpha Beta Filter For Velocity.md",
+    "Math/Graphics - Spherical Camera.md",
+    "Cheat Sheets/CMake Cheat Sheet.md",
     "Software/Vulkan/rendering camera for cube map.md",
     "Software/Vision & Math libraries.md",
     "Software/Flutter/Flutter CLI Cheat Sheet.md",
@@ -231,7 +219,6 @@
     "Software/Flutter/Compiling The Flutter Engine.md",
     "Software/Flutter",
     "Soft Skills/Procreate.md",
-    "Math/State Estimation/Alpha Beta Filter For Velocity.md",
     "Math/State Estimation",
     "Math/Probability And Uncertainty/Uncertainty Reduction Factor.md",
     "Math/Probability And Uncertainty/KL Divergence.md",
@@ -250,11 +237,6 @@
     "ML/ReLU.md",
     "ML/ML Roadmap.md",
     "ML",
-    "Cheat Sheets/Linux Terminal Cheat Sheet.md",
-    "Cheat Sheets/Docker Cheat Sheet.md",
-    "Math/Camera Geometry/Graphics - Perspective Camera.md",
-    "Math/Graphics - Spherical Camera.md",
-    "Math/Calculus/Chain Rule (Matrix Derivative).md",
     "Software/Vulkan",
     "Software/Architecture",
     "Math/Calculus/Automatic Differentiation",
