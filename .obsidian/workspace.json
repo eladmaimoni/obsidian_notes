@@ -4,28 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "2b69afa1eced0799",
+        "id": "0d9038d824354505",
         "type": "tabs",
         "children": [
           {
-            "id": "1239889c83cd6bc2",
+            "id": "349b28d13803141f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/State Estimation/Kalman Filter For Velocity.md",
+                "file": "IIA/Ultrawis ADAS system for tower and luffing cranes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a552bc52913202a3",
+            "id": "ed45aecaa6d767b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus/Matrix Differentiation Examples/Inverse of a Matrix.md",
+                "file": "IIA/Online Site Scanner & Mapper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "325d262c780079b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/Vision & Math libraries.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,36 +45,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "0d9038d824354505",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "af732ee004dd2c11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/State Estimation/Kalman Filter For Velocity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "349b28d13803141f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Linear Algebra/Kronecker Product/Kronecker Product - Basic Properties.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/State Estimation/Kalman Filter For Velocity.md",
+                "file": "IIA/Online Site Scanner & Mapper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/State Estimation/Kalman Filter For Velocity.md",
+                "file": "IIA/Online Site Scanner & Mapper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/State Estimation/Kalman Filter For Velocity.md"
+                "file": "IIA/Online Site Scanner & Mapper.md"
               }
             }
           }
@@ -189,13 +171,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af732ee004dd2c11",
+  "active": "ed45aecaa6d767b4",
   "lastOpenFiles": [
-    "Math/Probability And Uncertainty/Uncertainty Reduction Factor.md",
-    "Math/Probability And Uncertainty/KL Divergence.md",
-    "Soft Skills/Procreate.md",
-    "ML/ReLU.md",
+    "IIA/Ultrawis ADAS system for tower and luffing cranes.md",
+    "IIA/Online Site Scanner & Mapper.md",
+    "Wiki.md",
+    "Software/Vision & Math libraries.md",
     "ML/ML Roadmap.md",
+    "IIA",
+    "Math/Linear Algebra/Kronecker Product/Kronecker Product - Basic Properties.md",
+    "Soft Skills/Procreate.md",
+    "ML/Convolution Layer.md",
+    "Math/Linear Algebra/Shur Decomposition.md",
+    "Math/Probability And Uncertainty/KL Divergence.md",
+    "Math/Probability And Uncertainty/Uncertainty Reduction Factor.md",
+    "Math/Sets/Union or Intersection of open sets is open.md",
+    "Math/Sets/if a boundary point belongs to a set, it must be an accumulation point of its complementary..md",
+    "Math/Sets/A continuous function maps compact set to bounded output.md",
+    "Math/Sets/A boundary point of one set is also a boundary point of its complementary.md",
+    "Cheat Sheets/Python.md",
+    "Math/Calculus/Matrix Differentiation Examples/Inverse of a Matrix.md",
+    "Math/State Estimation/Kalman Filter For Velocity.md",
+    "ML/ReLU.md",
     "Math/Probability And Uncertainty",
     "Soft Skills/Persuading.md",
     "Math/Planning.md",
@@ -203,28 +200,15 @@
     "Math/Graphics - Spherical Camera.md",
     "Cheat Sheets/CMake Cheat Sheet.md",
     "Software/Vulkan/rendering camera for cube map.md",
-    "Software/Vision & Math libraries.md",
     "Software/Flutter/Flutter CLI Cheat Sheet.md",
-    "Software/Flutter/Debugging apps running on cusom embedders.md",
-    "Software/Flutter/Compiling The Flutter Engine.md",
     "Software/Flutter",
     "Math/State Estimation",
     "Math/Probability And Uncertainty",
-    "Math/Linear Algebra/Trace Properties.md",
-    "Math/Calculus/Differentials (Not Just for Scalars)/Second Order Differentials.md",
-    "Math/Calculus/Differentials (Not Just for Scalars)/Product Rule (Matrix Derivative).md",
-    "Math/Calculus/Differentials (Not Just for Scalars)/Newton Method (multivariable).md",
-    "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md",
-    "Math/Calculus/Differentials (Not Just for Scalars)/Limit of a product equals to the product of limits.md",
-    "Math/Calculus/Differentials (Not Just for Scalars)/Limit Definition.md",
-    "Math/Calculus/Differentials (Not Just for Scalars)/Differentiating Functionals (Calculus of Variations).md",
-    "Math/Calculus/Differentials (Not Just for Scalars)/Differential and Partial Derivatives.md",
     "Math/Calculus/Differentials (Not Just for Scalars)",
     "ML",
     "Software/Vulkan",
     "Software/Architecture",
     "Math/Calculus/Automatic Differentiation",
-    "Math/Linear Algebra/Linear Maps",
     "Pasted image 20240308134013.png"
   ]
 }

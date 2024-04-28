@@ -10,12 +10,41 @@ Key Sentences
 	- unidirectional dataflow.
 	- law of Demeter and IOC - design for change
 	- data oriented for performance & flexibility, OOP for abstraction
+- Why CPP:
+	- most powerful language out there - 
+	- widely used, 
+	- can interact **directly** with other tools that are mostly written in C or C++.
+	- directly is important.
+	- have almost all the control you need (example - flutter, optimizations)
+	- unlike C - it is easier to create abstractions with it and write less code.
+	The Bad:
+	- a patchwork of features (spaghetti language)
+	- can be super complex and ugly
+	- hard to use correctly (unlike dart for example)
 - Projects: 
 	- Beyeonics: TORIC IOL
 	- Beyeonics: DMA architecture (video in, graphics out in subframe latency)
 	- Ultrawis: Flutter Embedder
 	- Ultrawis: Realtime panoramic stiching, automatic calibration process (with a press of a button)
 
+# Story Telling
+### RGO
+- great atmosphere and respectful working environment (don't take this for granted)
+- super talented people
+- good recruiting environment
+- crippling development process
+- slow and unstable testing infrastructure
+- no decent code reviews and adherence to basic SW dev principles
+- you end up with a lot of talented people that are unable to contribute anything meaningful
+- even though I haven't been able to push a lot of significant changes, I learned quite a lot
+	- from understanding what they did wrong, and how to do this better
+	  (package management, build tools, automation, debuggability)
+	- how to approach people with new ideas (if you are used to have a certain reputation, people used to listen to you, suddenly - it's not so easy, you have to build trust)
+	- 
+### Ultrawis
+- Very impactful, not just on the product and technical aspects, but on people as well.
+- Example: lack of motivation from employee, bad performance - managed to pull her back together and really improve how she works and performs.
+- managed to improve team moral and motivation - which was very low to begin with.
 ### Why
 - Genuinely curious about Tasmania, culture.
 - Always wanted to be involved in developing a highly complex and high performant graphics engine.
