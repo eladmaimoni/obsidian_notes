@@ -5,7 +5,8 @@
 - [x] Understanding Deep Learning - Chapter 4 - Deep Neural Networks
 - [x] Understanding Deep Learning - Chapter 5 - Loss Functions
 - [x] [Fundamentals of Pytorch Autograd](https://pytorch.org/tutorials/beginner/introyt/autogradyt_tutorial.html)
-- [ ] Understanding Deep Learning - Chapter 6 - Model Fitting
+- [x] Understanding Deep Learning - Chapter 6 - Model Fitting
+- [ ] Understanding Deep Learning - Chapter 7 - Gradients and Initialization
 - [ ] [PyTorch SGD Nesterov Update](https://towardsdatascience.com/is-pytorchs-nesterov-momentum-implementation-wrong-5dc5f5032008)
 - [ ] [AI Summer - MLE](https://theaisummer.com/mle/)
 - [ ] [Understand KL Divergence, Cross Entropy Loss](https://ramsane.github.io/articles/cross-entropy-explained-with-entropy-and-kl-divergence)

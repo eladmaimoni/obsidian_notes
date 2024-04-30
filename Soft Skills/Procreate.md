@@ -12,20 +12,24 @@ Key Sentences
 	- data oriented for performance & flexibility, OOP for abstraction
 - Why CPP:
 	- most powerful language out there - 
-	- widely used, 
+	- Not necessarily because the language is that good
+	- its widely used
 	- can interact **directly** with other tools that are mostly written in C or C++.
 	- directly is important.
-	- have almost all the control you need (example - flutter, optimizations)
+	- have almost all the control you need (example - flutter engine, device apis, gpu api, frameworks, optimizations)
 	- unlike C - it is easier to create abstractions with it and write less code.
 	The Bad:
 	- a patchwork of features (spaghetti language)
 	- can be super complex and ugly
 	- hard to use correctly (unlike dart for example)
+	- easy to use incorrectly
 - Projects: 
 	- Beyeonics: TORIC IOL
 	- Beyeonics: DMA architecture (video in, graphics out in subframe latency)
 	- Ultrawis: Flutter Embedder
 	- Ultrawis: Realtime panoramic stiching, automatic calibration process (with a press of a button)
+	- Ultrawis: future ideas
+	- RGO: Pose Graph Optimization (rotation averaging), optimized feature matching, triangulation, mostly isolated work, nothing to write home about.
 
 # Story Telling
 ### RGO
@@ -42,8 +46,10 @@ Key Sentences
 	- how to approach people with new ideas (if you are used to have a certain reputation, people used to listen to you, suddenly - it's not so easy, you have to build trust)
 	- 
 ### Ultrawis
-- Very impactful, not just on the product and technical aspects, but on people as well.
-- Example: lack of motivation from employee, bad performance - managed to pull her back together and really improve how she works and performs.
+- Very impactful, not just on the product and technical aspects, but on people as well. 
+- Potential for self growth - possibility of becoming the CTO in the upcoming months
+- Success Story 1: lack of motivation from employee, bad performance - managed to pull her back together and really improve how she works and performs.
+- Success Story 2: Buffering CEO from SW team, which used to be much more detrimental to team moral and motivation.
 - managed to improve team moral and motivation - which was very low to begin with.
 ### Why
 - Genuinely curious about Tasmania, culture.
@@ -55,8 +61,7 @@ Key Sentences
   you hire people to hear them out.
 - Making significant contributions without being blocked by politics, improper infrastructure, ego.
 - Some level of freedom to bring in my own ideas.
-- 
-
+- Ideally role will incorporate mathematical skills and not just system dev
 
 ### Role
 - I know that whatever role i'm in, i'll do a significant amount of system and infrastructure development.
