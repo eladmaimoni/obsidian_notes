@@ -71,10 +71,11 @@ Key Sentences
 
 ### Technicalities / Processes:
 - Version Control?
+- Do you think the development process is efficient? Is it easy to make significant contributions?
+- Do you feel like the developers have access to good tools? Especially for debugging purposes?
 - Compile without warnings?
 - Code Reviews? would you describe the contributing process as efficient?
-- Do you think the development process is efficient? Is it easy to make significant contributions?
-- What do you think would be the most challenging aspcet in this position?
+- What do you think would be the most challenging aspect in this position?
 - Do you have any idea who I will be working aside with?
 - What am I not asking you that I should?
 ### Work Environment / Team

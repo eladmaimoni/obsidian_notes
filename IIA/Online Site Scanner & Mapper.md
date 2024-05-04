@@ -1,4 +1,8 @@
 Our system introduces a novel approach to construction site scanning by leveraging the existing cameras installed on cranes. Unlike traditional site scanning solutions that require separate equipment and dedicated time, our platform transforms crane cameras into an automated site scanning tool, running in the background without disrupting daily workflows.
+What IS THE END GOAL? WHAT IS IT DIFFER FROM CURRENT SYS?
+TECH and USR
+CLARIFY THE ON THE FLY ASPECT
+- EXPLAIN THE TECHNICHAL TERMS USED
 ### Goal
 
 The primary goal of this feature is to increase efficiency and reduce the costs associated with site scanning. By utilizing the cameras already in place, we eliminate the need for additional scanning equipment and minimize the overhead involved in separate site surveys. This not only reduces setup costs but also ensures that scanning occurs as a natural byproduct of crane operations.
@@ -26,12 +30,14 @@ Overall, our automated site scanning solution presents a more efficient, cost-ef
 - **Data Synchronization**: Ensuring consistent alignment of data from multiple cranes, which requires precise synchronization of spatial and temporal information.
 
 ### Task Breakdown
+SPECIFY HOW EACH THING SHOULD BE IMPLEMENTED
+
 1. **Development of data collection module for later offline processing**.
    - Each crane should have a data collection module that collects imagery and relevant sensor information based on crane state, time of day etc.
    - **Metadata Annotation** - imagery should be annotated with additional metadata such as
 	   - Time collected
 	   - World position and orientation
-	   -  Crane Sensor data such as load, crane positioning
+	   - Crane Sensor data such as load, crane positioning
 	   - Camera extrinsics and intrinsics
    - **Cloud Data Management** - A cloud database for collected data should be managed, allowing easy retrieval of collected data in order to feed 3D structural mapping algorithms.
 2. **Development of robust calibration procedures for crane cameras and sensors**.
@@ -39,7 +45,7 @@ Overall, our automated site scanning solution presents a more efficient, cost-ef
 	- **Calibration Equipment and Techniques**: Some calibration procedures might require specialized equipment, such as calibration boards or dedicated devices. Calibration should account for variations in lighting and crane movement to maintain accuracy.
 	- **Continuous Calibration Monitoring**: Procedures to regularly check and adjust calibration to maintain precision over time.
 3. Research of existing frameworks, techniques and solutions for implementing multi view 3D reconstruction.
-   Examples include [OpenMVG](https://github.com/openMVG/openMVG),, [OpenMVS](https://github.com/cdcseacave/openMVS), [ColMap](https://github.com/colmap/colmap) and others.
+   Examples include [OpenMVG](https://github.com/openMVG/openMVG), [OpenMVS](https://github.com/cdcseacave/openMVS), [ColMap](https://github.com/colmap/colmap) and others.
 4. **Proprietary Solution Development**: Adjust, innovate, and fine-tune selected frameworks to meet the unique needs of the site scanner. Implement custom algorithms and processes to ensure reliable 3D reconstruction.
    This can be further break down into the following sub tasks:
 	1. Implementation of 2D "aerial image stitcher" of site to provide a high resolution site tracker from upper view.
