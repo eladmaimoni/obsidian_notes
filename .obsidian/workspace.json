@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/Recovery Program - HOME.md",
+                "file": "Stackoverflow Drafts/Sphere Texture Mapping.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Recovery Program - HOME.md",
+                "file": "Stackoverflow Drafts/Sphere Texture Mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Recovery Program - HOME.md",
+                "file": "Stackoverflow Drafts/Sphere Texture Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Recovery Program - HOME.md"
+                "file": "Stackoverflow Drafts/Sphere Texture Mapping.md"
               }
             }
           }
@@ -148,11 +148,13 @@
   },
   "active": "6dec072b272d0fc8",
   "lastOpenFiles": [
+    "Training/Recovery Program - HOME.md",
+    "Stackoverflow Drafts/Sphere Texture Mapping.md",
+    "Stackoverflow Drafts",
     "Wiki.md",
     "Ideas/Procreate.md",
     "Ideas/Interesting Things to Learn.md",
     "Ideas/Persuading.md",
-    "Training/Recovery Program - HOME.md",
     "IIA/Calibration Free Crane Anti Collision System.md",
     "IIA/Online Site Scanner & Mapper.md",
     "Training",
@@ -175,7 +177,6 @@
     "ML/Convolution Layer.md",
     "Math/Linear Algebra/Shur Decomposition.md",
     "Math/Probability And Uncertainty/KL Divergence.md",
-    "Math/Probability And Uncertainty/Uncertainty Reduction Factor.md",
     "Math/Probability And Uncertainty",
     "Software/Flutter",
     "Math/State Estimation",
@@ -183,7 +184,6 @@
     "Math/Calculus/Differentials (Not Just for Scalars)",
     "ML",
     "Software/Vulkan",
-    "Software/Architecture",
     "Pasted image 20240308134013.png"
   ]
 }
