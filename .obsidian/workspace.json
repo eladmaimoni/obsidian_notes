@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stackoverflow Drafts/Sphere Texture Mapping.md",
+                "file": "IIA/Ultrawis ADAS system for tower and luffing cranes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stackoverflow Drafts/Sphere Texture Mapping.md",
+                "file": "IIA/Ultrawis ADAS system for tower and luffing cranes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stackoverflow Drafts/Sphere Texture Mapping.md",
+                "file": "IIA/Ultrawis ADAS system for tower and luffing cranes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stackoverflow Drafts/Sphere Texture Mapping.md"
+                "file": "IIA/Ultrawis ADAS system for tower and luffing cranes.md"
               }
             }
           }
@@ -148,15 +148,17 @@
   },
   "active": "6dec072b272d0fc8",
   "lastOpenFiles": [
-    "Training/Recovery Program - HOME.md",
+    "IIA/Online Site Scanner & Mapper.md",
+    "IIA/Calibration Free Crane Anti Collision System.md",
+    "IIA/ADAS Brochure.md",
+    "IIA/Ultrawis ADAS system for tower and luffing cranes.md",
     "Stackoverflow Drafts/Sphere Texture Mapping.md",
+    "Training/Recovery Program - HOME.md",
     "Stackoverflow Drafts",
     "Wiki.md",
     "Ideas/Procreate.md",
     "Ideas/Interesting Things to Learn.md",
     "Ideas/Persuading.md",
-    "IIA/Calibration Free Crane Anti Collision System.md",
-    "IIA/Online Site Scanner & Mapper.md",
     "Training",
     "ML/ML Roadmap.md",
     "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md",
@@ -169,14 +171,12 @@
     "Math/Calculus/Matrix Differentiation Examples/Forbinius Norm.md",
     "Math/Calculus/Matrix Differentiation Examples/Cubed Matrix.md",
     "Math/Calculus/Automatic Differentiation/Automatic Differentiation.md",
-    "IIA/Ultrawis ADAS system for tower and luffing cranes.md",
     "Software/Vision & Math libraries.md",
     "Math/Calculus/Automatic Differentiation/Adjoint Differentiation of a Linear Solution.md",
     "IIA",
     "Math/Linear Algebra/Kronecker Product/Kronecker Product - Basic Properties.md",
     "ML/Convolution Layer.md",
     "Math/Linear Algebra/Shur Decomposition.md",
-    "Math/Probability And Uncertainty/KL Divergence.md",
     "Math/Probability And Uncertainty",
     "Software/Flutter",
     "Math/State Estimation",
