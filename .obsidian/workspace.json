@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/State Estimation/Alpha Beta Filter For Velocity.md",
+                "file": "Math/State Estimation/Kalman Filter For Velocity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/State Estimation/Alpha Beta Filter For Velocity.md",
+                "file": "Math/State Estimation/Kalman Filter For Velocity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/State Estimation/Alpha Beta Filter For Velocity.md",
+                "file": "Math/State Estimation/Kalman Filter For Velocity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/State Estimation/Alpha Beta Filter For Velocity.md"
+                "file": "Math/State Estimation/Kalman Filter For Velocity.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "6c017268a0a39df8",
   "lastOpenFiles": [
-    "Math/State Estimation/Kalman Filter For Velocity.md",
     "Math/State Estimation/Alpha Beta Filter For Velocity.md",
+    "Math/State Estimation/Kalman Filter For Velocity.md",
     "Cheat Sheets/CMake Cheat Sheet.md",
     "IIA/ADAS Brochure.md",
     "Stackoverflow Drafts/Sphere Texture Mapping.md",
