@@ -5,6 +5,8 @@
 ### References
 - [How to Train the ONE ARM HANG](https://www.youtube.com/watch?v=-YkM1wI9ACk)
 - [Shoulders](https://www.youtube.com/watch?v=Zx1QS_m5n2s)
+- [How to Train Finger Strength for Climbing](https://www.youtube.com/watch?v=I_-YapmymjA)
+- [How To Not Get Injured](https://www.youtube.com/watch?v=etAwQ4jzyNY)
 
 ### Weakpoints
 1. Poor wrist strength - makes you rotate when hanging
@@ -82,4 +84,9 @@ Warm up:
 
 Shoulder Strength:
 
+
+# Session 2 - Legs
+1. Nordic Hamstring Curls
+2. Recruitment Pulls
+3. 
 

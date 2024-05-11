@@ -4,22 +4,90 @@
     "type": "split",
     "children": [
       {
-        "id": "7b3d0538d9d669db",
+        "id": "467d1aacb180240d",
         "type": "tabs",
         "children": [
+          {
+            "id": "0177dc85be5ff1a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08604e6f876a9dc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSP & State Estimation/Kalman Filter - Matrix Notation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d2de9a1bd470e43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ultrawis/AC System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "6c017268a0a39df8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/State Estimation/Kalman Filter For Velocity.md",
+                "file": "Training/Recovery Program - HOME.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "2732fbcc442acfee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4002e6ba7522cb06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9965a0f19ad4bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Linear Algebra/Trace Properties.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 389.5
   },
   "right": {
     "id": "67cb1b068e0d1f86",
@@ -85,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/State Estimation/Kalman Filter For Velocity.md",
+                "file": "Training/Recovery Program - HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/State Estimation/Kalman Filter For Velocity.md",
+                "file": "Training/Recovery Program - HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/State Estimation/Kalman Filter For Velocity.md"
+                "file": "Training/Recovery Program - HOME.md"
               }
             }
           }
@@ -148,16 +216,24 @@
   },
   "active": "6c017268a0a39df8",
   "lastOpenFiles": [
-    "Math/State Estimation/Alpha Beta Filter For Velocity.md",
-    "Math/State Estimation/Kalman Filter For Velocity.md",
+    "DSP & State Estimation/Kalman Filter - Matrix Notation.md",
+    "Math/Linear Algebra/Trace Properties.md",
+    "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md",
+    "Ultrawis/AC System.md",
+    "Training/Recovery Program - HOME.md",
+    "DSP & State Estimation/Kalman Filter For Velocity.md",
+    "Math/Calculus/Matrix Differentiation Examples/Forbinius Norm.md",
+    "Math/Calculus/Matrix Differentiation Examples/Determinant.md",
+    "Math/Calculus/Matrix Differentiation Examples/Cubed Matrix.md",
+    "Math/Calculus/Matrix Differentiation Examples/Quadratic Form Differential (definition).md",
+    "Ultrawis/ADAS Brochure.md",
+    "DSP & State Estimation/Alpha Beta Filter For Velocity.md",
     "Cheat Sheets/CMake Cheat Sheet.md",
-    "IIA/ADAS Brochure.md",
     "Stackoverflow Drafts/Sphere Texture Mapping.md",
     "Stackoverflow Drafts",
-    "IIA/Online Site Scanner & Mapper.md",
-    "IIA/Calibration Free Crane Anti Collision System.md",
-    "IIA/Ultrawis ADAS system for tower and luffing cranes.md",
-    "Training/Recovery Program - HOME.md",
+    "Ultrawis/Online Site Scanner & Mapper.md",
+    "Ultrawis/Calibration Free Crane Anti Collision System.md",
+    "Ultrawis/Ultrawis ADAS system for tower and luffing cranes.md",
     "Training",
     "Ideas/Procreate.md",
     "Ideas/Persuading.md",
@@ -165,20 +241,12 @@
     "Math/Camera Geometry/Calibration Plan Using Kannala-Brandt.md",
     "Math/Calculus/Matrix Differentiation Examples/Inverse of a Matrix.md",
     "ML/Convolution Layer.md",
-    "IIA",
+    "Ultrawis",
     "Cheat Sheets/Python.md",
     "Math/Camera Geometry/Graphics - Perspective Camera.md",
     "Wiki.md",
-    "Math/Graphics - Spherical Camera.md",
-    "Software/Vulkan/rendering camera for cube map.md",
-    "Software/Vision & Math libraries.md",
-    "Software/Flutter/Flutter CLI Cheat Sheet.md",
-    "Software/Flutter/Debugging apps running on cusom embedders.md",
-    "Software/Flutter/Compiling The Flutter Engine.md",
     "Software/Flutter",
-    "Soft Skills/Procreate.md",
-    "Math/State Estimation",
-    "Math/Probability And Uncertainty/Uncertainty Reduction Factor.md",
+    "DSP & State Estimation",
     "Math/Probability And Uncertainty",
     "Math/Calculus/Differentials (Not Just for Scalars)",
     "ML",
