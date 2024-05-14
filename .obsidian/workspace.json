@@ -8,6 +8,42 @@
         "type": "tabs",
         "children": [
           {
+            "id": "da112130e380a342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/CS Algo/Arrays/Sort an array of 0s, 1s and 2s.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd6b828fd851cf81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/CS Algo/CS Algo Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c017268a0a39df8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/CS Algo/Arrays/subarray sum - target sum with non negative values.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0177dc85be5ff1a3",
             "type": "leaf",
             "state": {
@@ -42,52 +78,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6c017268a0a39df8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Training/Recovery Program - HOME.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "2732fbcc442acfee",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4002e6ba7522cb06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9965a0f19ad4bdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Linear Algebra/Trace Properties.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training/Recovery Program - HOME.md",
+                "file": "Software/CS Algo/Arrays/Sort an array of 0s, 1s and 2s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training/Recovery Program - HOME.md",
+                "file": "Software/CS Algo/Arrays/Sort an array of 0s, 1s and 2s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training/Recovery Program - HOME.md"
+                "file": "Software/CS Algo/Arrays/Sort an array of 0s, 1s and 2s.md"
               }
             }
           }
@@ -214,13 +206,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c017268a0a39df8",
+  "active": "da112130e380a342",
   "lastOpenFiles": [
+    "Software/CS Algo/CS Algo Roadmap.md",
+    "Software/CS Algo/Arrays/Sort an array of 0s, 1s and 2s.md",
+    "Software/CS Algo/Arrays/Minimum number of jumps.md",
+    "Software/CS Algo/Important Formulas.md",
+    "Software/CS Algo/Arrays/Kadane's Algorithm - maximum subarray  sum.md",
+    "Software/CS Algo/Arrays/subarray sum - target sum with non negative values.md",
+    "Software/CS Algo/Array Tips.md",
+    "ML/ML Roadmap.md",
+    "Software/CS Algo/Arrays",
+    "Math/Planning.md",
+    "Ideas/Procreate.md",
+    "Training/Recovery Program - HOME.md",
+    "Software/CS Algo",
     "DSP & State Estimation/Kalman Filter - Matrix Notation.md",
     "Math/Linear Algebra/Trace Properties.md",
     "Math/Calculus/Differentials (Not Just for Scalars)/Matrix Gradient - Dot Product.md",
     "Ultrawis/AC System.md",
-    "Training/Recovery Program - HOME.md",
     "DSP & State Estimation/Kalman Filter For Velocity.md",
     "Math/Calculus/Matrix Differentiation Examples/Forbinius Norm.md",
     "Math/Calculus/Matrix Differentiation Examples/Determinant.md",
@@ -233,25 +237,13 @@
     "Stackoverflow Drafts",
     "Ultrawis/Online Site Scanner & Mapper.md",
     "Ultrawis/Calibration Free Crane Anti Collision System.md",
-    "Ultrawis/Ultrawis ADAS system for tower and luffing cranes.md",
     "Training",
-    "Ideas/Procreate.md",
-    "Ideas/Persuading.md",
-    "Math/Linear Algebra/Kronecker Product/Kronecker Product - Basic Properties.md",
-    "Math/Camera Geometry/Calibration Plan Using Kannala-Brandt.md",
-    "Math/Calculus/Matrix Differentiation Examples/Inverse of a Matrix.md",
-    "ML/Convolution Layer.md",
     "Ultrawis",
-    "Cheat Sheets/Python.md",
-    "Math/Camera Geometry/Graphics - Perspective Camera.md",
-    "Wiki.md",
     "Software/Flutter",
     "DSP & State Estimation",
     "Math/Probability And Uncertainty",
     "Math/Calculus/Differentials (Not Just for Scalars)",
     "ML",
-    "Software/Vulkan",
-    "Software/Architecture",
     "Pasted image 20240308134013.png"
   ]
 }
