@@ -1,0 +1,2 @@
+- Given a timeseries data $(x_i, y_i)$ we wish to smooth it out by fitting a polynomial to each fixed length segment.
+- We normalize each dat
