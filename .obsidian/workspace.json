@@ -1,64 +1,51 @@
 {
   "main": {
-    "id": "6c561e5760851abe",
+    "id": "00902366386ebba0",
     "type": "split",
     "children": [
       {
-        "id": "7b3d0538d9d669db",
+        "id": "21a97ac449ff6101",
         "type": "tabs",
         "children": [
           {
-            "id": "6c017268a0a39df8",
+            "id": "54d80bbedb84bd16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSP & State Estimation/Kalman Filter - Matrix Notation.md",
+                "file": "Ultrawis/Online Site Scanning & Mapping For Vision Based Collision Avoidance and Construction Progress Tracking.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8961dd4c255749fb",
+            "id": "4940f7ae1a3b0b42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSP & State Estimation/Kalman Filter For Velocity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4267161edc2f8245",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ultrawis/AC System.md",
+                "file": "Ultrawis/Realtime detection and segmentation of jobsite elements for autonomous Collision Avoidance System.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5cb2137f1bfc845a",
+    "id": "aba8a3d17c6b714f",
     "type": "split",
     "children": [
       {
-        "id": "caffef07c5929143",
+        "id": "4a0f336a930b1401",
         "type": "tabs",
         "children": [
           {
-            "id": "02f0c8298aa077c6",
+            "id": "d92416f5d46779fd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +55,7 @@
             }
           },
           {
-            "id": "8ef329af55a35750",
+            "id": "b592f57a5f8039d4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +70,7 @@
             }
           },
           {
-            "id": "669f44682066e73f",
+            "id": "417c0f7d9dd3c952",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,23 +81,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "67cb1b068e0d1f86",
+    "id": "e53d5bfb9b712885",
     "type": "split",
     "children": [
       {
-        "id": "c034165d31a0a611",
+        "id": "fe29fc79e0119602",
         "type": "tabs",
         "children": [
           {
-            "id": "fc8011fbae1812d5",
+            "id": "b679748ae96cadba",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSP & State Estimation/Kalman Filter For Velocity.md",
+                "file": "Ultrawis/Online Site Scanning & Mapping For Vision Based Collision Avoidance and Construction Progress Tracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +109,19 @@
             }
           },
           {
-            "id": "9303a696a5b15cc1",
+            "id": "ffcc9ac4ff39949b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSP & State Estimation/Kalman Filter For Velocity.md",
+                "file": "Ultrawis/Online Site Scanning & Mapping For Vision Based Collision Avoidance and Construction Progress Tracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9d1b0d2ac4dba899",
+            "id": "ca96abe6d7dc401b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +132,12 @@
             }
           },
           {
-            "id": "b48c9b5161b7f8eb",
+            "id": "5dc3e9b28f92fba2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSP & State Estimation/Kalman Filter For Velocity.md"
+                "file": "Ultrawis/Online Site Scanning & Mapping For Vision Based Collision Avoidance and Construction Progress Tracking.md"
               }
             }
           }
@@ -171,60 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8961dd4c255749fb",
+  "active": "54d80bbedb84bd16",
   "lastOpenFiles": [
-    "Software/CS Algo/Arrays/Sort an array of 0s, 1s and 2s.md",
-    "Software/CS Algo/Arrays/subarray sum - target sum with non negative values.md",
-    "Software/CS Algo/Arrays/Minimum number of jumps.md",
-    "Software/CS Algo/Arrays/Kadane's Algorithm - maximum subarray  sum.md",
-    "Software/CS Algo/Important Formulas.md",
-    "Software/CS Algo/CS Algo Roadmap.md",
-    "Software/CS Algo/Array Tips.md",
-    "Software/CS Algo/Arrays",
-    "Software/CS Algo",
-    "DSP & State Estimation/Kalman Filter - Matrix Notation.md",
-    "DSP & State Estimation/Kalman Filter For Velocity.md",
-    "Ultrawis/AC System.md",
-    "Math/State Estimation/Savitzky Golay.md",
-    "Ultrawis/Ultrawis ADAS system for tower and luffing cranes.md",
-    "Ultrawis/Online Site Scanner & Mapper.md",
-    "Ultrawis/Calibration Free Crane Anti Collision System.md",
+    "Ultrawis/Realtime detection and segmentation of jobsite elements for autonomous Collision Avoidance System.md",
+    "Ultrawis/Online Site Scanning & Mapping For Vision Based Collision Avoidance and Construction Progress Tracking.md",
     "Ultrawis/ADAS Brochure.md",
-    "Ultrawis",
-    "DSP & State Estimation/Alpha Beta Filter For Velocity.md",
-    "DSP & State Estimation",
-    "Math/State Estimation/Kalman Filter For Velocity.md",
-    "Math/State Estimation/Alpha Beta Filter For Velocity.md",
-    "Cheat Sheets/CMake Cheat Sheet.md",
-    "IIA/ADAS Brochure.md",
-    "Stackoverflow Drafts/Sphere Texture Mapping.md",
-    "Stackoverflow Drafts",
-    "IIA/Online Site Scanner & Mapper.md",
-    "IIA/Calibration Free Crane Anti Collision System.md",
-    "IIA/Ultrawis ADAS system for tower and luffing cranes.md",
-    "Training/Recovery Program - HOME.md",
-    "Training",
-    "Ideas/Procreate.md",
-<<<<<<< Updated upstream
-    "IIA",
-    "Software/Flutter",
-    "Math/State Estimation",
-    "Math/Probability And Uncertainty",
-=======
-    "Ideas/Persuading.md",
-    "Math/Linear Algebra/Kronecker Product/Kronecker Product - Basic Properties.md",
-    "Math/Camera Geometry/Calibration Plan Using Kannala-Brandt.md",
-    "Math/Calculus/Matrix Differentiation Examples/Inverse of a Matrix.md",
-    "ML/Convolution Layer.md",
-    "IIA",
-    "Cheat Sheets/Python.md",
-    "Math/Camera Geometry/Graphics - Perspective Camera.md",
-    "Software/Flutter",
-    "Math/State Estimation",
-    "Math/Probability And Uncertainty",
-    "Math/Calculus/Differentials (Not Just for Scalars)",
-    "ML",
->>>>>>> Stashed changes
-    "Pasted image 20240308134013.png"
+    "Ultrawis/AC System.md",
+    "Ultrawis/Ultrawis ADAS system for tower and luffing cranes.md"
   ]
 }
