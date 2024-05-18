@@ -11,6 +11,6 @@ Problem Sets
    
 Checklist
 - [ ] [Mastering Dynamic Programming](https://www.youtube.com/watch?v=Hdr64lKQ3e4)
-- [ ] 100 array problems
+- [ ] 100 array problems - 12 / 100
 - [ ] 50 string problems
 - [ ] 

@@ -38,7 +38,7 @@ while (twos > 0)
 
 ```
 
-### Better $O(n)$ - 1 pass
+### Better $O(n)$ - 1 pass based on the *partition* algortithm
 - we keep 2 pointers - start and end
 - `start` marks the end of the zeros section
 - `end`  marks the start of the twos section
@@ -77,8 +77,13 @@ while (i < right)
 }
 ```
 
-### Sorting an array of 1's and 0's
+### Partition Algorithm
 - this can help understanding the principle of the previous
+- in this case the 'pivot' is 0
+- In words: 
+	- swap all `a[i]<= pivot` to the left and move both `left` and `i`
+	- for `a[i] > pivot` only advance `i`. this is a placeholder for future possible swap
+
 
 ```
 auto left = 0;

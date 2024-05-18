@@ -38,8 +38,8 @@ for (auto target_index = 1; target_index < n; ++target_index)
 ### $O(n)$ Solution
   - Once you finalized your **decision** to jump to/from cell i, you need to decide where to jump next. 
   - Where do you choose to jump to in the range `i + [1, arr[i]]? 
-	  - **The cell which will take you the farthest**
-	  - **This is the best decision from what you can do**
+	  - The cell which will take you the farthest
+	  - This is the best decision from what you **can** do
   - When you must **finalize** your decision?
 	  - When you depleted the leftover range from last jump location (decision)
   -  Your first decision is the first cell i = 0. 

@@ -25,6 +25,8 @@ return max_subarray_sum;
 ```
 
 Insights:
-If we are in position i, the best sum up until position i - 1 can either:
-1. help me get a better sum (if it is positive basically)
-2. make it worse for me, and hence we might prefer starting over
+If we are in position i, the best sum that ends at position i - 1 can either:
+1. help me get a better sum (if it is positive)
+2. make it worse for me (if it is negative), and hence we might prefer starting over
+
+We sum each element, if the sum becomes negative, then it is better to discard it and start over since this continuous part only worsen things
