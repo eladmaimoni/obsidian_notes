@@ -13,19 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/CS Algo/Arrays/Max Product Subarray.md",
+                "file": "Software/CS Algo/Arrays/Maximum of all subarrays of size k.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4940f7ae1a3b0b42",
+            "id": "0af7bc5f20623dde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ultrawis/Realtime detection and segmentation of jobsite elements for autonomous Collision Avoidance System.md",
+                "file": "Software/CS Algo/Data Structures/Red Black Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08c1b23490b3113f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/CS Algo/CS Algo Roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/CS Algo/Arrays/Max Product Subarray.md",
+                "file": "Software/CS Algo/Arrays/Maximum of all subarrays of size k.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/CS Algo/Arrays/Max Product Subarray.md",
+                "file": "Software/CS Algo/Arrays/Maximum of all subarrays of size k.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/CS Algo/Arrays/Max Product Subarray.md"
+                "file": "Software/CS Algo/Arrays/Maximum of all subarrays of size k.md"
               }
             }
           }
@@ -160,20 +172,27 @@
   },
   "active": "54d80bbedb84bd16",
   "lastOpenFiles": [
-    "Software/CS Algo/Arrays/Subarray Sum - target sum with non negative values.md",
-    "Ultrawis/Realtime detection and segmentation of jobsite elements for autonomous Collision Avoidance System.md",
-    "Software/CS Algo/Array Tips.md",
-    "Software/CS Algo/Arrays/Max Product Subarray.md",
+    "Software/CS Algo/Data Structures/Red Black Tree.md",
+    "Software/CS Algo/Data Structures/Heap.md",
+    "Software/CS Algo/Arrays/Maximum of all subarrays of size k.md",
     "Software/CS Algo/CS Algo Roadmap.md",
-    "Software/CS Algo/Arrays/Equilibrium Point.md",
     "Software/CS Algo/Arrays/Minimize modified height diff.md",
-    "Software/CS Algo/Arrays/2 Sum - Sorted Array.md",
-    "Software/CS Algo/Arrays/Find minimum difference in sorted array.md",
-    "Software/CS Algo/Arrays/Partition.md",
     "Software/CS Algo/Arrays/Minimum number of jumps.md",
     "Software/CS Algo/Arrays/Sort an array of 0s, 1s and 2s.md",
-    "Software/CS Algo/Arrays/Majority Element.md",
+    "Software/CS Algo/Arrays/Subarray Sum - target sum with non negative values.md",
+    "Software/CS Algo/Arrays/Partition.md",
+    "Software/CS Algo/Array Algo",
+    "Software/CS Algo/Arrays/Trapping Water.md",
     "Software/CS Algo/Arrays/Kadane's Algorithm - maximum subarray  sum.md",
+    "Software/CS Algo/Arrays/Find minimum difference in sorted array.md",
+    "Software/CS Algo/Data Structures/Binary Tree.md",
+    "Software/CS Algo/Data Structures",
+    "Software/CS Algo/Array Tips.md",
+    "Software/CS Algo/Arrays/Majority Element.md",
+    "Software/CS Algo/Arrays/Max Product Subarray.md",
+    "Ultrawis/Realtime detection and segmentation of jobsite elements for autonomous Collision Avoidance System.md",
+    "Software/CS Algo/Arrays/Equilibrium Point.md",
+    "Software/CS Algo/Arrays/2 Sum - Sorted Array.md",
     "Ultrawis/Online Site Scanning & Mapping For Vision Based Collision Avoidance and Construction Progress Tracking.md",
     "Ultrawis/ADAS Brochure.md",
     "Ultrawis/AC System.md",
