@@ -2,5 +2,9 @@
   "accentColor": "",
   "theme": "obsidian",
   "baseFontSize": 20,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "bold-font",
+    "wider-test-area"
+  ]
 }

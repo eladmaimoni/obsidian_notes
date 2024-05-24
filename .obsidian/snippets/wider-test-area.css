@@ -1,0 +1,5 @@
+.workspace-leaf-content {
+  max-width: none;
+  width: 70%; /* Adjust this percentage as needed */
+  margin: 0 auto; /* Center the content */
+}

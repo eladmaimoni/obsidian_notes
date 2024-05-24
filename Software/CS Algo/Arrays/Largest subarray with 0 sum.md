@@ -1,0 +1,3 @@
+- sum of subbarrays with sum 0 is also 0
+- every index is a possible starting point
+- 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/CS Algo/Arrays/Maximum of all subarrays of size k.md",
+                "file": "Software/CS Algo/Arrays/row with max ones.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 540.5
   },
   "right": {
     "id": "e53d5bfb9b712885",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/CS Algo/Arrays/Maximum of all subarrays of size k.md",
+                "file": "Software/CS Algo/Arrays/row with max ones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/CS Algo/Arrays/Maximum of all subarrays of size k.md",
+                "file": "Software/CS Algo/Arrays/row with max ones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/CS Algo/Arrays/Maximum of all subarrays of size k.md"
+                "file": "Software/CS Algo/Arrays/row with max ones.md"
               }
             }
           }
@@ -172,10 +172,19 @@
   },
   "active": "54d80bbedb84bd16",
   "lastOpenFiles": [
-    "Software/CS Algo/Data Structures/Red Black Tree.md",
-    "Software/CS Algo/Data Structures/Heap.md",
-    "Software/CS Algo/Arrays/Maximum of all subarrays of size k.md",
+    "Software/CS Algo/Arrays/find values in sorted array.md",
+    "Software/CS Algo/Arrays/row with max ones.md",
+    "Software/CS Algo/Arrays/Sliding Window xth element.md",
     "Software/CS Algo/CS Algo Roadmap.md",
+    "Software/CS Algo/Arrays/Maximize Stock buy and sell indices.md",
+    "Software/CS Algo/Arrays/binary search.md",
+    "Software/CS Algo/Arrays/Largest subarray with 0 sum.md",
+    "Software/CS Algo/Data Structures/Red Black Tree.md",
+    "Software/CS Algo/Arrays/Sliding Window Median.md",
+    "Software/CS Algo/Important Formulas.md",
+    "Software/CS Algo/Array Tips.md",
+    "Software/CS Algo/Arrays/Sliding Window Maximum (subarrays of size k.md",
+    "Software/CS Algo/Data Structures/Heap.md",
     "Software/CS Algo/Arrays/Minimize modified height diff.md",
     "Software/CS Algo/Arrays/Minimum number of jumps.md",
     "Software/CS Algo/Arrays/Sort an array of 0s, 1s and 2s.md",
@@ -187,15 +196,9 @@
     "Software/CS Algo/Arrays/Find minimum difference in sorted array.md",
     "Software/CS Algo/Data Structures/Binary Tree.md",
     "Software/CS Algo/Data Structures",
-    "Software/CS Algo/Array Tips.md",
     "Software/CS Algo/Arrays/Majority Element.md",
     "Software/CS Algo/Arrays/Max Product Subarray.md",
     "Ultrawis/Realtime detection and segmentation of jobsite elements for autonomous Collision Avoidance System.md",
-    "Software/CS Algo/Arrays/Equilibrium Point.md",
-    "Software/CS Algo/Arrays/2 Sum - Sorted Array.md",
-    "Ultrawis/Online Site Scanning & Mapping For Vision Based Collision Avoidance and Construction Progress Tracking.md",
-    "Ultrawis/ADAS Brochure.md",
-    "Ultrawis/AC System.md",
-    "Ultrawis/Ultrawis ADAS system for tower and luffing cranes.md"
+    "Software/CS Algo/Arrays/Equilibrium Point.md"
   ]
 }
