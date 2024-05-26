@@ -7,8 +7,6 @@
 ```
     int equilibriumPoint(long long a[], int n) 
     {
-        
-
         auto left = -1;
         auto right = n;
         long long sum_left = 0;
