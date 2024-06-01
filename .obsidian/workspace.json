@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/CS Algo/Sorting/Insertion Sort.md",
+                "file": "Ideas/House Purchase.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 540.5
+    "width": 461.5
   },
   "right": {
     "id": "e53d5bfb9b712885",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/CS Algo/Sorting/Insertion Sort.md",
+                "file": "Ideas/House Purchase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/CS Algo/Sorting/Insertion Sort.md",
+                "file": "Ideas/House Purchase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/CS Algo/Sorting/Insertion Sort.md"
+                "file": "Ideas/House Purchase.md"
               }
             }
           }
@@ -160,13 +160,19 @@
   },
   "active": "dcda4494df9e3926",
   "lastOpenFiles": [
-    "Software/CS Algo/Untitled.md",
+    "Ideas/Checklist flight.md",
+    "Ideas/House Purchase.md",
+    "Software/gRPC/gRPC pitfalls & subtleties.md",
+    "Software/gRPC",
+    "Ideas/Flight Planning.md",
+    "Software/CS Algo/CS Algo Roadmap.md",
+    "Ideas/Procreate.md",
     "Software/CS Algo/Sorting/Insertion Sort.md",
+    "Software/CS Algo/Untitled.md",
     "Software/CS Algo/Sorting",
     "Software/CS Algo/Important Formulas.md",
     "Software/CS Algo/Arrays/2 Sum - Sorted Array.md",
     "Software/CS Algo/Arrays/Index Difference Yielding A Positive Value Difference.md",
-    "Software/CS Algo/CS Algo Roadmap.md",
     "Software/CS Algo/Array Tips.md",
     "Software/CS Algo/Coding Interview Patterns.md",
     "Software/CS Algo/Arrays/Minimum Platforms.md",
@@ -184,11 +190,6 @@
     "Software/CS Algo/Arrays/Sliding Window xth element.md",
     "Software/CS Algo/Arrays/Maximize Stock buy and sell indices.md",
     "Software/CS Algo/Arrays/Largest subarray with 0 sum.md",
-    "Software/CS Algo/Arrays/Sliding Window Median.md",
-    "Software/CS Algo/Arrays/Sliding Window Maximum (subarrays of size k.md",
-    "Software/CS Algo/Arrays/Minimize modified height diff.md",
-    "Software/CS Algo/Arrays/Minimum number of jumps.md",
-    "Software/CS Algo/Arrays/Sort an array of 0s, 1s and 2s.md",
     "Software/CS Algo/Array Algo",
     "Software/CS Algo/Data Structures"
   ]
