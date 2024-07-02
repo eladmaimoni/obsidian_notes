@@ -1,3 +1,5 @@
+Repetitions: |||
+https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1?page=1&category=Arrays&difficulty=Medium&sortBy=submissions
 
  https://www.interviewbit.com/blog/minimum-number-of-jumps/
  

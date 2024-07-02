@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dcda4494df9e3926",
+            "id": "eeca0a79850da868",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/House Purchase.md",
+                "file": "Software/CS Algo/Array Problems/Stock Span Problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/CS Algo/Arrays/Equilibrium Point.md",
+                "file": "Software/CS Algo/Array Problems/4 - Sort an array of 0s, 1s and 2s.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcda4494df9e3926",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/CS Algo/Array Tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/House Purchase.md",
+                "file": "Software/CS Algo/Array Problems/Stock Span Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas/House Purchase.md",
+                "file": "Software/CS Algo/Array Problems/Stock Span Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas/House Purchase.md"
+                "file": "Software/CS Algo/Array Problems/Stock Span Problem.md"
               }
             }
           }
@@ -158,38 +170,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcda4494df9e3926",
+  "active": "eeca0a79850da868",
   "lastOpenFiles": [
-    "Ideas/Checklist flight.md",
-    "Ideas/House Purchase.md",
-    "Software/gRPC/gRPC pitfalls & subtleties.md",
-    "Software/gRPC",
-    "Ideas/Flight Planning.md",
+    "Software/CS Algo/Array Problems/Maximum Index - Find Max j - i Such that a(i) is smaller than a(j).md",
+    "Software/CS Algo/Array Problems/Stock Span Problem.md",
+    "Software/CS Algo/Array Problems/Partition.md",
+    "Software/CS Algo/Array Problems/9 - Minimum Platforms.md",
+    "Software/CS Algo/Array Problems/find values in sorted array.md",
+    "Software/CS Algo/Array Problems/Find minimum difference in sorted array.md",
+    "Software/CS Algo/Array Problems/Equilibrium Point.md",
+    "Software/CS Algo/Array Problems/Two Sum - Sorted Array.md",
+    "Software/CS Algo/Array Problems/Trapping Water.md",
+    "Software/CS Algo/Array Problems/Sliding Window xth element.md",
+    "Software/CS Algo/Array Problems/Sliding Window Median.md",
+    "Software/CS Algo/Array Problems/Sliding Window Maximum (subarrays of size k.md",
+    "Software/CS Algo/Array Problems/row with max ones.md",
+    "Software/CS Algo/Array Problems/Maximize Stock buy and sell indices.md",
+    "Software/CS Algo/Array Problems/7 - Minimize modified height diff.md",
+    "Software/CS Algo/Array Problems/5 - Majority Element.md",
     "Software/CS Algo/CS Algo Roadmap.md",
-    "Ideas/Procreate.md",
-    "Software/CS Algo/Sorting/Insertion Sort.md",
-    "Software/CS Algo/Untitled.md",
-    "Software/CS Algo/Sorting",
-    "Software/CS Algo/Important Formulas.md",
-    "Software/CS Algo/Arrays/2 Sum - Sorted Array.md",
-    "Software/CS Algo/Arrays/Index Difference Yielding A Positive Value Difference.md",
-    "Software/CS Algo/Array Tips.md",
-    "Software/CS Algo/Coding Interview Patterns.md",
-    "Software/CS Algo/Arrays/Minimum Platforms.md",
-    "Software/CS Algo/Data Structures/Red Black Tree.md",
+    "Software/CS Algo/Array Problems/4 - Sort an array of 0s, 1s and 2s.md",
+    "Software/CS Algo/Array Problems/3 - Minimum number of jumps.md",
+    "Software/CS Algo/Array Problems/2 - Kadane's Algorithm - maximum subarray sum.md",
+    "Software/CS Algo/Array Problems/1 - Subarray Sum - target subarray sum (non negative values).md",
+    "Ideas/House Purchase.md",
+    "Ideas/Interesting Things to Learn.md",
+    "Ideas/Persuading.md",
+    "Ideas/Checklist flight.md",
+    "Ideas/Flight Planning.md",
+    "Software/gRPC",
+    "Software/CS Algo/Arrays Building Blocks",
     "Untitled.canvas",
-    "Ultrawis/AC System.md",
-    "revision/Revision.md",
     "revision",
-    "Software/CS Algo/Arrays/Equilibrium Point.md",
-    "Software/CS Algo/Arrays/binary search.md",
-    "Software/CS Algo/Data Structures/Binary Tree.md",
-    "Software/CS Algo/Data Structures/Heap.md",
-    "Software/CS Algo/Arrays/row with max ones.md",
-    "Software/CS Algo/Arrays/find values in sorted array.md",
-    "Software/CS Algo/Arrays/Sliding Window xth element.md",
-    "Software/CS Algo/Arrays/Maximize Stock buy and sell indices.md",
-    "Software/CS Algo/Arrays/Largest subarray with 0 sum.md",
     "Software/CS Algo/Array Algo",
     "Software/CS Algo/Data Structures"
   ]

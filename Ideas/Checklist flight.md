@@ -1,37 +1,37 @@
 
 Docs & Papers
-- [ ] Passports
-- [ ] credit cards
-- [ ] ESTA
-- [ ] cash
-- [ ] Driving License
-- [ ] Wallet
+- [x] Passports
+- [x] credit cards
+- [x] ESTA
+- [x] cash
+- [x] Driving License
+- [x] Wallet
 
 Health
 - [x] Pillow(s)
 - [x] Panda mattress cover
-- [ ] Ear Plugs
-- [ ] Levander Pills
-- [ ] CBD
-- [ ] tooth brush
-- [ ] hair trimmer
-- [ ] glasses
-- [ ] mouth wash
-- [ ] nail thing
+- [x] Ear Plugs
+- [x] Levander Pills
+- [x] CBD
+- [x] tooth brush
+- [x] hair trimmer
+- [x] glasses
+- [x] mouth wash
+- [x] nail thing
 
 Electronics
 - [x] US Adapters
-- [ ] PC + charger
-- [ ] ipad
-- [ ] kindle
-- [ ] headphones
-- [ ] keyboard + mouse
+- [x] PC + charger
+- [x] ipad
+- [x] kindle
+- [x] headphones
+- [x] keyboard + mouse
 
 Clothes
-- [ ] underwear
-- [ ] socks
-- [ ] camper shoes
-- [ ] sandals
-- [ ] Fleece
-- [ ] Zion Pants X2
+- [x] underwear
+- [x] socks
+- [x] camper shoes
+- [x] sandals
+- [x] Fleece
+- [x] Zion Pants X2
 - [ ] 

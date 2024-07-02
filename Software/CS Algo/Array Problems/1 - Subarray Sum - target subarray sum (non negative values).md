@@ -1,4 +1,4 @@
-
+Repetitions: |||
 https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&category=Arrays&sortBy=submissions
 
 given array of non negative numbers, find a contiguous subarray that adds to the target sum $S$
@@ -13,6 +13,8 @@ Solution In words:
 Insights:
 - Inclusive accumulative sum can give us a subarray sum with $O(1)$ complexity on the fly
 - The subarray sum is always non decreasing, once it passes the target sum we can only decrease the sum by incrementing the start index.
+- When we increment `start`, could it be that we 'skipped' a possible solution?
+  No, if there is a possible solution with a previous `end`, the subarray sum would have surpass the target earlier, forcing us to increment `i`
 
 ```
 vector<int> subarraySum(vector<int>arr, int n, long long s)

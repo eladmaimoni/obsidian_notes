@@ -13,5 +13,14 @@
 
 Thought Process Keywords
 - 2 pointers - one from `end` one from `start`
+- 2 pointers from start
 - fixed sliding window
+- sorting
+
+
+Thought Process Tips
+- memorize solutions multiple times - this reinforce patterns and understanding
+- once you know the solution - visualize it in multiple ways
+- memorize both visually and literally 
+- memorize correctness
 

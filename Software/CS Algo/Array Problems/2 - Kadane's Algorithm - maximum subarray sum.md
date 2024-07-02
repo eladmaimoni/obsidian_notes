@@ -1,3 +1,9 @@
+Repetitions: |||
+
+https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1?page=1&category=Arrays&difficulty=Medium&sortBy=submissions
+
+
+
 ```
 long long max_sum_that_ends_with_i = arr[0];
 long long max_subarray_sum = max_sum_that_ends_with_i;

@@ -1,4 +1,6 @@
+https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1?page=1&category=Arrays&difficulty=Medium&sortBy=submissions
 
+Repetitions: ||
 ### 2 Pointers approach - Does not work
 - Create A sorted array of segments, sorted by start time and then end time
 - Keep a counter for the platforms, initialize to 1

@@ -1,3 +1,7 @@
+https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1?page=1&category=Arrays&difficulty=Medium&sortBy=submissions
+
+Repetitions: ||
+
 - given array of integers `a[]`, and a modifier $\pm{k}$ , find the smallest possible diff between the maximum and minimum value in the modified array.
 
 
