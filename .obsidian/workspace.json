@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Business Ideas.md",
+                "file": "Software/Rust/Roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Business Ideas.md",
+                "file": "Software/Rust/Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas/Business Ideas.md",
+                "file": "Software/Rust/Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas/Business Ideas.md"
+                "file": "Software/Rust/Roadmap.md"
               }
             }
           }
@@ -161,12 +161,15 @@
   },
   "active": "90f66ec20dd2af58",
   "lastOpenFiles": [
-    "Ideas/Persuading.md",
-    "Ideas/Interesting Things to Learn.md",
+    "Ideas/Business Ideas.md",
+    "Software/Rust/Roadmap.md",
     "Ideas/House Purchase.md",
+    "Ideas/Interesting Things to Learn.md",
+    "Ultrawis/Geteworks Session.md",
+    "Software/Rust",
+    "Ideas/Persuading.md",
     "Ideas/Flight Planning.md",
     "Ideas/Checklist flight.md",
-    "Ideas/Business Ideas.md",
     "Stackoverflow Drafts/Sphere Texture Mapping.md",
     "Ultrawis/Network Tasks.md",
     "Wiki.md",
@@ -177,7 +180,6 @@
     "revision/Revision.md",
     "Wireshark & Networking/TCP - Transport Layer Protocol.md",
     "Wireshark & Networking/Network Terminology.md",
-    "Ultrawis/Geteworks Session.md",
     "Wireshark & Networking/Wireshark Cheat Sheet.md",
     "Software/Flutter/In Depth Videos.md",
     "Wireshark & Networking",
@@ -191,7 +193,6 @@
     "Software/CS Algo/Array Tips.md",
     "Software/CS Algo/Array Problems/4 - Sort an array of 0s, 1s and 2s.md",
     "Ultrawis/Streaming Design.md",
-    "Software/Visual Studio 2022 Setup.md",
     "Software/gRPC",
     "Software/CS Algo/Arrays Building Blocks",
     "revision",
