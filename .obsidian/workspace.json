@@ -4,28 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "2cd5bea0bc9e7d7d",
+        "id": "a755ed3abbc9303d",
         "type": "tabs",
         "children": [
           {
-            "id": "57a18c3724c0190f",
+            "id": "26ea084024a0792e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ultrawis/Geteworks Session.md",
+                "file": "Math/DSP & State Estimation/Kalman Filter For Velocity.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "90f66ec20dd2af58",
+            "id": "1fbee6d1fdb84622",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Rust/Roadmap.md",
+                "file": "Math/DSP & State Estimation/Alpha Beta Filter For Velocity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cafd9c6aeb2c9c6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/DSP & State Estimation/Kalman Filter - Matrix Notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5
+    "width": 421.5
   },
   "right": {
     "id": "e53d5bfb9b712885",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/Rust/Roadmap.md",
+                "file": "Math/DSP & State Estimation/Kalman Filter - Matrix Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/Rust/Roadmap.md",
+                "file": "Math/DSP & State Estimation/Kalman Filter - Matrix Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/Rust/Roadmap.md"
+                "file": "Math/DSP & State Estimation/Kalman Filter - Matrix Notation.md"
               }
             }
           }
@@ -159,40 +171,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90f66ec20dd2af58",
+  "active": "cafd9c6aeb2c9c6b",
   "lastOpenFiles": [
-    "Ideas/Business Ideas.md",
-    "Software/Rust/Roadmap.md",
-    "Ideas/House Purchase.md",
-    "Ideas/Interesting Things to Learn.md",
-    "Ultrawis/Geteworks Session.md",
-    "Software/Rust",
-    "Ideas/Persuading.md",
-    "Ideas/Flight Planning.md",
-    "Ideas/Checklist flight.md",
-    "Stackoverflow Drafts/Sphere Texture Mapping.md",
+    "Math/DSP & State Estimation/Alpha Beta Filter For Velocity.md",
+    "Math/DSP & State Estimation/Kalman Filter For Velocity.md",
+    "Math/DSP & State Estimation/Kalman Filter - Matrix Notation.md",
+    "Ultrawis/Google Play.md",
+    "2024-08-18.md",
+    "Software/boost asio cheat sheet.md",
+    "Untitled 2.canvas",
     "Ultrawis/Network Tasks.md",
-    "Wiki.md",
-    "Untitled.canvas",
-    "Software/VSCode/Settings.md",
-    "Pasted image 20240823131852.png",
-    "Pasted image 20240816160947.png",
-    "revision/Revision.md",
+    "Ultrawis/Realtime detection and segmentation of jobsite elements for autonomous Collision Avoidance System.md",
+    "Ultrawis/Online Site Scanning & Mapping For Vision Based Collision Avoidance and Construction Progress Tracking.md",
+    "Ultrawis/Geteworks Session.md",
+    "Ultrawis/Streaming Design.md",
+    "Wireshark & Networking/Wireshark Cheat Sheet.md",
     "Wireshark & Networking/TCP - Transport Layer Protocol.md",
     "Wireshark & Networking/Network Terminology.md",
-    "Wireshark & Networking/Wireshark Cheat Sheet.md",
-    "Software/Flutter/In Depth Videos.md",
     "Wireshark & Networking",
-    "Software/CPP/Core CPP - Lessons learned from threading bugs.md",
     "Ultrawis/Software Tests.md",
-    "Software/Flutter/Riverpod Tips.md",
-    "Software/Flutter/Flutter CLI Cheat Sheet.md",
-    "Software/Flutter/Debugging apps running on cusom embedders.md",
+    "Software/Flutter/In Depth Videos.md",
+    "Pasted image 20240816160947.png",
+    "Ultrawis/ADAS Brochure.md",
+    "Ultrawis/AC System.md",
+    "Software/Visual Studio 2022 Setup.md",
+    "Software/Vision & Math libraries.md",
     "Software/Flutter/Compiling The Flutter Engine.md",
+    "Pasted image 20240729163803.png",
+    "Software/Flutter/Riverpod Tips.md",
+    "Untitled 1.canvas",
+    "Cheat Sheets/VCPKG Cheat Sheet.md",
+    "Software/Github Actions/Github Actions with Docker.md",
+    "Ideas/House Purchase.md",
+    "Untitled.canvas",
+    "Software/Flutter/Flutter CLI Cheat Sheet.md",
     "Software/CPP",
-    "Software/CS Algo/Array Tips.md",
-    "Software/CS Algo/Array Problems/4 - Sort an array of 0s, 1s and 2s.md",
-    "Ultrawis/Streaming Design.md",
     "Software/gRPC",
     "Software/CS Algo/Arrays Building Blocks",
     "revision",
