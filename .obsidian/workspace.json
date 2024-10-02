@@ -8,6 +8,7 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< Updated upstream
             "id": "26ea084024a0792e",
             "type": "leaf",
             "state": {
@@ -21,10 +22,14 @@
           },
           {
             "id": "1fbee6d1fdb84622",
+=======
+            "id": "90f66ec20dd2af58",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Math/DSP & State Estimation/Alpha Beta Filter For Velocity.md",
                 "mode": "source",
                 "source": false
@@ -38,13 +43,15 @@
               "type": "markdown",
               "state": {
                 "file": "Math/DSP & State Estimation/Kalman Filter - Matrix Notation.md",
+=======
+                "file": "Ultrawis/Video Streaming/NGINX video server.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +117,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Math/DSP & State Estimation/Kalman Filter - Matrix Notation.md",
+=======
+                "file": "Ultrawis/Video Streaming/NGINX video server.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +138,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Math/DSP & State Estimation/Kalman Filter - Matrix Notation.md",
+=======
+                "file": "Ultrawis/Video Streaming/NGINX video server.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +165,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Math/DSP & State Estimation/Kalman Filter - Matrix Notation.md"
+=======
+                "file": "Ultrawis/Video Streaming/NGINX video server.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -173,6 +192,7 @@
   },
   "active": "cafd9c6aeb2c9c6b",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Math/DSP & State Estimation/Alpha Beta Filter For Velocity.md",
     "Math/DSP & State Estimation/Kalman Filter For Velocity.md",
     "Math/DSP & State Estimation/Kalman Filter - Matrix Notation.md",
@@ -205,6 +225,41 @@
     "Ideas/House Purchase.md",
     "Untitled.canvas",
     "Software/Flutter/Flutter CLI Cheat Sheet.md",
+=======
+    "Ultrawis/AC System.md",
+    "Ultrawis/Video Streaming/NGINX video server.md",
+    "Ultrawis/Video Streaming/GPT answer.md",
+    "Ultrawis/Video Streaming/Untitled",
+    "Ultrawis/Video Streaming/Firebase video streaming.md",
+    "Ultrawis/AC Test Session.md",
+    "Ultrawis/Video Streaming",
+    "Software/Rust/Interior Mutability & Smart Pointers.md",
+    "Software/CS Algo/Array Problems/row with max ones.md",
+    "Software/CS Algo/Array Problems/Max Product Subarray.md",
+    "Software/CS Algo/Array Problems/Maximize Stock buy and sell indices.md",
+    "Software/CS Algo/Array Problems/Largest subarray with 0 sum.md",
+    "Software/CS Algo/Array Problems/find values in sorted array.md",
+    "Software/CS Algo/Array Problems/Find minimum difference in sorted array.md",
+    "Software/CS Algo/Array Problems/Partition.md",
+    "Software/CS Algo/Array Problems/Maximum Index - Find Max j - i Such that a(i) is smaller than a(j).md",
+    "Software/CS Algo/Array Problems/Sliding Window Maximum (subarrays of size k.md",
+    "Software/CS Algo/Array Problems/Sliding Window Median.md",
+    "Software/CS Algo/Array Problems/Stock Span Problem.md",
+    "Software/CS Algo/Array Problems/Trapping Water.md",
+    "Software/CS Algo/Array Problems/Two Sum - Sorted Array.md",
+    "Software/CS Algo/Array Problems/Equilibrium Point.md",
+    "Software/CS Algo/Array Problems/9 - Minimum Platforms.md",
+    "Software/CS Algo/Array Problems/7 - Minimize modified height diff.md",
+    "Software/CS Algo/Array Problems/5 - Majority Element.md",
+    "Software/CS Algo/Array Problems/4 - Sort an array of 0s, 1s and 2s.md",
+    "Software/CS Algo/Array Problems/3 - Minimum number of jumps.md",
+    "Software/CS Algo/Array Problems/2 - Kadane's Algorithm - maximum subarray sum.md",
+    "Software/Rust",
+    "Untitled.canvas",
+    "Pasted image 20240823131852.png",
+    "Pasted image 20240816160947.png",
+    "Wireshark & Networking",
+>>>>>>> Stashed changes
     "Software/CPP",
     "Software/gRPC",
     "Software/CS Algo/Arrays Building Blocks",
