@@ -3,7 +3,7 @@ https://leetcode.com/problems/container-with-most-water/description/
 https://jessijokes.medium.com/solving-the-leetcode-container-with-most-water-problem-f720c4f0dacd
 
 - Repetitions: |
-- Understanding Rate: 30%
+- Understanding Rate: 40%
 ### **Why Does This Work?**
 
 #### **1. Starting with the Maximum Width**
@@ -26,50 +26,29 @@ https://jessijokes.medium.com/solving-the-leetcode-container-with-most-water-pro
 
 ```
     int maxArea(vector<int>& height) {
-
         auto n = height.size();
-
         int start = 0;
-
         int end = n - 1;
-
         int max_container = -1;
-
         while (start < end)
-
         {
 
             auto h_left = height[start];
-
             auto h_right = height[end];
-
             auto container_size = (end - start) * min(h_left, h_right);
-
             max_container = max(max_container, container_size);
 
-  
-
             if (h_left < h_right)
-
             {
-
                 ++start;
-
             }
-
             else
-
             {
-
                 --end;
-
             }
-
         }
-
         return max_container;
-
     }
 ```
 
-#2-pointers
+#2-pointers #arrays 

@@ -26,3 +26,4 @@
     }
 ```
 
+#binary-search 
