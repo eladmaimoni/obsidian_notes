@@ -4,7 +4,7 @@
      
 2. Geometric Progression
    - $a_n = a_1 * q^{n-1}$
-   - 
+   - $S_n = a_1 \frac {q^n - 1} {q - 1}$ 
 1. 
 2. sdfg
 3. 

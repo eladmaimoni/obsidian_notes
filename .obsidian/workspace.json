@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/CS Algo/Array Problems/11 - Median of Two Sorted Arrays.md",
+                "file": "Software/CS Algo/Data Structures/Heap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "037b5bd22e800bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/CS Algo/Test Yourself Questions/DS - Test Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f59d4b23b3668ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/CS Algo/Data Structures/Binary Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93287ea882a8960c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/CS Algo/Important Formulas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/CS Algo/Array Problems/11 - Median of Two Sorted Arrays.md",
+                "file": "Software/CS Algo/Data Structures/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/CS Algo/Array Problems/11 - Median of Two Sorted Arrays.md",
+                "file": "Software/CS Algo/Data Structures/Heap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/CS Algo/Array Problems/11 - Median of Two Sorted Arrays.md"
+                "file": "Software/CS Algo/Data Structures/Heap.md"
               }
             }
           }
@@ -148,6 +184,15 @@
   },
   "active": "54c5323d72d5aee9",
   "lastOpenFiles": [
+    "Software/CS Algo/Test Yourself Questions/DS - Test Questions.md",
+    "Software/CS Algo/Data Structures/Heap.md",
+    "Software/CS Algo/Data Structures/Binary Tree.md",
+    "Software/CS Algo/Coding Interview Patterns.md",
+    "Software/CS Algo/Untitled.md",
+    "Software/CS Algo/Test Yourself Questions",
+    "Software/CS Algo/Important Formulas.md",
+    "Software/CS Algo/Data Structures/Red Black Tree.md",
+    "Software/CS Algo/Array Problems/11 - Median of Two Sorted Arrays.md",
     "Software/CS Algo/Array Problems/10 - Container With The Most Water.md",
     "Software/CS Algo/Array Problems/9 - Minimum Platforms.md",
     "Software/CS Algo/Array Problems/7 - Minimize modified height diff.md",
@@ -155,7 +200,6 @@
     "2024-10-09.md",
     "Untitled.canvas",
     "Software/CS Algo/Arrays Building Blocks/binary search.md",
-    "Software/CS Algo/Array Problems/11 - Median of Two Sorted Arrays.md",
     "Software/CS Algo/Array Tips.md",
     "Software/CS Algo/Array Problems/1 - Subarray Sum - target subarray sum (non negative values).md",
     "Software/CS Algo/Array Problems/2 - Kadane's Algorithm - maximum subarray sum.md",
