@@ -30,7 +30,7 @@ voif heapify(int childIdx)
 ```
 ### Insert $O(\log{n})$ 
 1. Add to the end of the tree / array
-2. Recursively heapify upward until no swap is needed
+2. heapify **upward** until no swap is needed
 
 ```
 std::vector<int> max_heap;
@@ -89,7 +89,7 @@ max_heap[child_idx] = val;
 ```
 ### Remove $O(\log{n})$ 
 1. Swap with the last element and remove
-2. Start with the swapped element, recursively heapify downwards until no swap is necessary
+2. Start with the swapped element, heapify **downwards** until no swap is necessary
 ### Heapify - transform an array / tree to a heap $O(n)$
 Iterate each tree layer from bottom to top, heappifying each node.
 - starting with the first index of the lowest layer

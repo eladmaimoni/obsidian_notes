@@ -24,3 +24,5 @@ Thought Process Tips
 - memorize both visually and literally 
 - memorize correctness
 
+
+
