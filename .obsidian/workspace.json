@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/CS Algo/CS Algo Roadmap.md",
+                "file": "Software/CS Algo/Array Problems/14 - Gas Station.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 479.5110321044922
   },
   "right": {
     "id": "e1fcff1efa5cd92c",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/CS Algo/CS Algo Roadmap.md",
+                "file": "Software/CS Algo/Array Problems/14 - Gas Station.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/CS Algo/CS Algo Roadmap.md",
+                "file": "Software/CS Algo/Array Problems/14 - Gas Station.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/CS Algo/CS Algo Roadmap.md"
+                "file": "Software/CS Algo/Array Problems/14 - Gas Station.md"
               }
             }
           }
@@ -196,8 +196,10 @@
   },
   "active": "41805221282118c3",
   "lastOpenFiles": [
-    "Software/CS Algo/Test & Rehearse/Technique Map.md",
+    "Software/CS Algo/Array Problems/2 - Kadane's Algorithm - maximum subarray sum.md",
+    "Software/CS Algo/Array Problems/14 - Gas Station.md",
     "Software/CS Algo/CS Algo Roadmap.md",
+    "Software/CS Algo/Test & Rehearse/Technique Map.md",
     "Software/CS Algo/Array Problems/12 - 3Sum.md",
     "Software/CS Algo/List of Problems.md",
     "test-your-knowledge/2.MediumProblems.md",
@@ -205,7 +207,6 @@
     "Software/CS Algo/Array Problems/Stock Span Problem.md",
     "Software/CS Algo/Array Problems/Partition.md",
     "Software/CS Algo/Array Problems/7 - Minimize modified height diff.md",
-    "Software/CS Algo/Array Problems/2 - Kadane's Algorithm - maximum subarray sum.md",
     "Software/CS Algo/Array Problems/1 - Subarray Sum - target subarray sum (non negative values).md",
     "Software/CS Algo/Test & Rehearse/DS - Test Questions.md",
     "Software/CS Algo/Array Problems/10 - Container With The Most Water.md",
@@ -225,7 +226,6 @@
     "Untitled.canvas",
     "Software/CS Algo/Arrays Building Blocks/binary search.md",
     "Finance/Taxes.md",
-    "Finance/Stocks Analyses.md",
     "Pasted image 20240729163803.png",
     "Finance"
   ]
