@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/CS Algo/Array Problems/17 - Target Sum.md",
+                "file": "Software/CS Algo/Array Problems/22 - Combinations Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17 - Target Sum"
+              "title": "22 - Combinations Sum"
             }
           }
         ],
@@ -235,12 +235,21 @@
   },
   "active": "93287ea882a8960c",
   "lastOpenFiles": [
-    "Software/CS Algo/Array Problems/1 - Subarray Sum - target subarray sum (non negative values).md",
-    "Software/CS Algo/Test & Rehearse/DP.md",
-    "Software/CS Algo/Array Problems/17 - Target Sum.md",
-    "Software/CS Algo/Array Problems/16 - Coin Change.md",
-    "Software/CS Algo/List of Problems.md",
+    "Software/CS Algo/DP/DP 4 - Unbounded Knapsack.md",
+    "Software/CS Algo/Array Problems/22 - Combinations Sum.md",
+    "Software/CS Algo/DP/DP 1 - Fractional Knapsack.md",
+    "Software/CS Algo/DP/DP 2 - 0 1 Knapsack.md",
+    "Software/CS Algo/DP/DP 3 - Bounded Knapsack.md",
+    "Software/CS Algo/DP/DP.md",
+    "Software/CS Algo/Test & Rehearse/DS - Test Questions.md",
+    "Software/CS Algo/Untitled.md",
     "Software/CS Algo/CS Algo Roadmap.md",
+    "Software/CS Algo/List of Problems.md",
+    "Software/CS Algo/DP",
+    "Software/CS Algo/Test & Rehearse/Technique Map.md",
+    "Software/CS Algo/Array Problems/17 - Target Sum.md",
+    "Software/CS Algo/Array Problems/1 - Subarray Sum - target subarray sum (non negative values).md",
+    "Software/CS Algo/Array Problems/16 - Coin Change.md",
     "Software/CS Algo/Data Structures/Binary Tree.md",
     "Software/CS Algo/Array Problems/14 - Gas Station.md",
     "Software/CS Algo/Array Problems/7 - Minimize modified height diff.md",
@@ -252,15 +261,7 @@
     "Software/CS Algo/Array Problems/21 - Search in Rotated Sorted Array.md",
     "Software/CS Algo/Arrays Building Blocks/binary search.md",
     "Software/CS Algo/Array Tips.md",
-    "Software/CS Algo/Test & Rehearse/Technique Map.md",
-    "Software/CS Algo/Test & Rehearse/DS - Test Questions.md",
-    "Software/CS Algo/Untitled.md",
     "Software/CS Algo/Important Formulas.md",
-    "Software/CS Algo/Array Problems/20 - Largest Palindromic Substring.md",
-    "Software/CS Algo/Array Problems/15 - Maximize the Topmost Element After K Moves.md",
-    "Software/CS Algo/Array Problems/2 - Kadane's Algorithm - maximum subarray sum.md",
-    "Software/CS Algo/Array Problems/12 - 3Sum.md",
-    "test-your-knowledge/2.MediumProblems.md",
     "test-your-knowledge",
     "Software/CS Algo/Test & Rehearse",
     "Untitled 3.canvas",
