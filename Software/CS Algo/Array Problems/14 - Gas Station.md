@@ -1,6 +1,6 @@
 https://leetcode.com/problems/gas-station/
 
-Repetitions: |
+Repetitions: ||
 Understanding: 70%
 
 ```

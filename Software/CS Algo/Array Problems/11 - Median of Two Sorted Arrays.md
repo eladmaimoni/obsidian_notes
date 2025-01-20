@@ -1,4 +1,5 @@
-https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+- [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
 ### Median
 in a sorted array of length n:
 - if `n` is *odd*: the median index is `n/2` (for example 2 in case n = 5)

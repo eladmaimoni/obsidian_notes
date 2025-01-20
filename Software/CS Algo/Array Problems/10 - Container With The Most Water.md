@@ -2,7 +2,7 @@ https://leetcode.com/problems/container-with-most-water/description/
 
 https://jessijokes.medium.com/solving-the-leetcode-container-with-most-water-problem-f720c4f0dacd
 
-- Repetitions: |
+- Repetitions: ||
 - Understanding Rate: 40%
 ### **Why Does This Work?**
 

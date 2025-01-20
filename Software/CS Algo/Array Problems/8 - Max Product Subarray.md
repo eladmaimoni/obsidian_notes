@@ -1,3 +1,6 @@
+
+https://leetcode.com/problems/maximum-product-subarray
+
 - given an array, find the subarray producing the largest product
 
 Solution

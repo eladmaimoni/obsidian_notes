@@ -2,6 +2,8 @@
 https://leetcode.com/problems/target-sum/description/
 
 https://walkccc.me/LeetCode/problems/494/
+
+Repetitions: ||
 # Naive $O(2^n)$
 
 ```

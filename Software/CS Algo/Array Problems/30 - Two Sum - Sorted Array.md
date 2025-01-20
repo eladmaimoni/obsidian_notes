@@ -1,4 +1,5 @@
-[=Repetitions: ||
+- [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+
 
 Given an array, find 2 elements that amounts to target sum
 - non sorted variation uses a hash table too lookup `target - a[i]`

@@ -1,7 +1,7 @@
+- https://www.geeksforgeeks.org/problems/maximum-index-1587115620/1
 - https://www.enjoyalgorithms.com/blog/find-the-maximum-j-i-in-array
 - Find the largest index difference (positive) that yields a positive value difference
 - `i < j && a[j] <= a[i]`
-
 ### Smart Brute Force
 - we take advantage of the fact that we want to find the maximal index difference
 - so we can start iterating from the right and stop on the first element that satisfies this

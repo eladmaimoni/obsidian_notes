@@ -1,4 +1,4 @@
-Repetitions: |||
+Repetitions: |||||
 
 https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1?page=1&category=Arrays&difficulty=Medium&sortBy=submissions
 

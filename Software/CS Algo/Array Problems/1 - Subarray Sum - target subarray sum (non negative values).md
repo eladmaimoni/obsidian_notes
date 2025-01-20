@@ -1,5 +1,7 @@
-Repetitions: |||
+Repetitions: ||||
 https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&category=Arrays&sortBy=submissions
+
+
 
 given array of non negative numbers, find a contiguous subarray that adds to the target sum $S$
 
@@ -79,3 +81,5 @@ vector<int> subarraySum(vector<int>arr, int n, long long s)
 
 ### Subtleties
 - Note that even though `end` may reach the end of the array, we are still not done. We may need to still reach the end of the array.
+
+#2-pointers 

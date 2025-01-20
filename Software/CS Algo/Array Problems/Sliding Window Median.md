@@ -1,4 +1,6 @@
+- [480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
 https://thewayofnada.medium.com/a-very-thorough-solution-to-sliding-window-median-and-some-heap-magics-5091a3ed1cdc
+
 
 Idea
 - We have a sliding window of size K (odd number)

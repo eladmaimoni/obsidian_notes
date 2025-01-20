@@ -3,7 +3,7 @@ https://leetcode.com/problems/coin-change/
 - Minimum number of coins to reach a certain amount
 - Given an array of coins with different values, what is the minimum number of coins to reach a certain amount
 
-Repetitions: ||
+Repetitions: |||
 Understanding: 90%
 
 ```

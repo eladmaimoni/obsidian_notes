@@ -1,8 +1,22 @@
 
+### Techniques
+- Sliding Window
+- Stack
+- 2 Pointers at 2 ends
+- DFS
+- BFS
+- Heap
+- DP - optimal subproblem
+- Greedy
+- Count
+- Acc Sum
+- Running Min / Running Max
+- Binary Search
+- Hash Map
 ## Two Pointers - 2 Ends Variant
 
 #### Problems
-- [[Two Sum - Sorted Array]]
+- [[30 - Two Sum - Sorted Array]]
 - [[10 - Container With The Most Water]]
 - [[12 - 3Sum]]
 - 

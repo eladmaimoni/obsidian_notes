@@ -2,7 +2,9 @@ https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm
 
 https://www.geeksforgeeks.org/problems/majority-element-1587115620/1?page=1&category=Arrays&difficulty=Medium&sortBy=submissions
 
-Repetitions: ||
+https://leetcode.com/problems/majority-element/submissions/
+
+Repetitions: |||
 
 Find the array that occurs more than N/2 times in the array, if it exists
 
@@ -37,6 +39,7 @@ Why is this Correct?
 - a non majority element will receive **at most** `V < N/2` votes in total
 - in the worst case, the majority element will cancel `V` votes but will still get at least one more vote making it the majority candidate.
 
+#arrays 
 
 
 

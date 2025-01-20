@@ -1,7 +1,8 @@
-Repetitions: |||
+Repetitions: ||||
 https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1?page=1&category=Arrays&difficulty=Medium&sortBy=submissions
 
  https://www.interviewbit.com/blog/minimum-number-of-jumps/
+https://leetcode.com/problems/jump-game-ii/
  
  ### $O(n^2)$ Solution
   - for each target index, we go back and calculate the minimum possible jumps to reach it
@@ -102,4 +103,5 @@ return jumps;
 ```
 
 ### Why do we always want to jump to the cell which will give us the max reach?
-- 
+
+#greedy 
