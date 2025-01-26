@@ -7,3 +7,4 @@ Ctrl + Shift + P: user settings (JSON)
 ![[Pasted image 20240823131852.png]]
 ### Keyboard:
 Go To File - Ctrl + Shift + A
+

@@ -1,4 +1,3 @@
-
 - Concurrency Visualizer
 - build timer
 - tex comments

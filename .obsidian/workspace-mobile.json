@@ -11,10 +11,14 @@
             "id": "320902bbaa143b65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Rust Learning Memo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Rust Learning Memo"
             }
           }
         ]
@@ -136,11 +140,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a739551a634bf938",
+  "active": "320902bbaa143b65",
   "lastOpenFiles": [
+    "Rust Learning Memo.md",
     "Software/gRPC/gRPC pitfalls & subtleties.md",
     "Software/gRPC",
     "Ideas/House Purchase.md",
@@ -176,7 +182,6 @@
     "Software/Flutter",
     "Software/CS Algo/Untitled.md",
     "Software/CS Algo/Sorting/Insertion Sort.md",
-    "Software/CS Algo/Sorting",
-    "Software/CS Algo/Important Formulas.md"
+    "Software/CS Algo/Sorting"
   ]
 }

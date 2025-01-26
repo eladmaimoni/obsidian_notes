@@ -1,0 +1,6 @@
+- tests can be written inline using a normal function, annoteted with `#test`
+- running cargo test will execute the tests
+- otherwise they wont compile
+-  In normal compilation test won't run only when invokin cargo test
+-  A trait in rust is like an interface for imp purpose
+- 

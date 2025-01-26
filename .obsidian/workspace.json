@@ -8,35 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e7db1c76d269f05",
+            "id": "1c115c4b40bc5747",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/CS Algo/Data Structures/Hash Tables/Robin Hood Hash Tables.md",
+                "file": "Software/Assembly/1 - square.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Robin Hood Hash Tables"
+              "title": "1 - square"
             }
           },
           {
-            "id": "2566f6c33665f37d",
+            "id": "3077fb88b9b064c8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/drawing1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "drawing1"
+            }
+          },
+          {
+            "id": "8c50f3ecfef39fc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/PC Games.md",
+                "file": "Software/Cool Things to Learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PC Games"
+              "title": "Cool Things to Learn"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "drawing1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,37 +186,43 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2566f6c33665f37d",
+  "active": "1c115c4b40bc5747",
   "lastOpenFiles": [
-    "Home/Bike License.md",
+    "Excalidraw/drawing1.md",
+    "Excalidraw/square_stack_memory.md",
+    "Software/Assembly/1 - square.md",
+    "Software/Cool Things to Learn.md",
+    "Software/Assembly/push command.md",
+    "Software/Assembly/Improtant Registers.md",
+    "Software/Assembly/Untitled 1.md",
+    "Software/Assembly",
+    "Cheat Sheets/CMake Cheat Sheet.md",
+    "Software/Untitled",
+    "Software/Visual Studio 2022 Setup.md",
+    "Software/boost asio cheat sheet.md",
+    "Software/Vision & Math libraries.md",
+    "Stackoverflow Drafts/Sphere Texture Mapping.md",
+    "Pasted image 20250120225006.png",
+    "Software/VSCode/Settings.md",
+    "Books/Good That Might Be Good To Read.md",
+    "Software/CS Algo/Data Structures/Hash Tables/Robin Hood Hash Tables.md",
+    "Excalidraw",
+    "Software/VSCode/Copilot Chat Tips.md",
+    "Software/VSCode/Annoying Thing About VS Code.md",
+    "Pasted image 20240729163803.png",
+    "Ideas/Business Ideas.md",
     "Ideas/PC Games.md",
+    "Home/Bike License.md",
     "Home/Shops.md",
     "Ideas/Checklist flight.md",
-    "Ideas/Business Ideas.md",
     "Finance/Taxes.md",
     "Finance/Stocks Analyses.md",
     "Cheat Sheets/Windows Terminal Cheat Sheet.md",
     "Cheat Sheets/VCPKG Cheat Sheet.md",
-    "Cheat Sheets/SSH Cheat Sheet.md",
-    "Cheat Sheets/Python.md",
-    "Cheat Sheets/Linux Terminal Cheat Sheet.md",
-    "Cheat Sheets/Docker Cheat Sheet.md",
-    "Cheat Sheets/CMake Cheat Sheet.md",
-    "Books/Good That Might Be Good To Read.md",
-    "gov.md",
-    "Ideas/Interesting Things to Learn.md",
-    "Ideas/Persuading.md",
-    "Ideas/House Purchase.md",
-    "Home/Architect.md",
-    "Finance/Cisco Offer.md",
-    "Ideas/Flight Planning.md",
-    "Home/Purchase Plan.md",
-    "Software/CS Algo/Data Structures/Hash Tables/Robin Hood Hash Tables.md",
-    "Software/CPP/CPPCon/Hash Tables/Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step.md",
-    "Software/CS Algo/Data Structures/Hash Tables/Open vs Closed Addressing.md",
     "Software/CS Algo/Data Structures/Hash Tables",
     "Software/CPP/CPPCon/Hash Tables",
     "Software/CPP/CPPCon",
