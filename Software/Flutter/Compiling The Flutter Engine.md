@@ -100,7 +100,7 @@ C:\Libraries\engine\src> python .\flutter\tools\gn --no-goma
 ```
 ninja -C .\out\<dir created by previous step>
 
-ninja -C .\out\host_debug\
+ninja -C ./out/host_debug\
 ninja -C .\out\host_debug_unopt\
 ninja -C .\out\host_release\
 ninja -C .\out\host_release_unopt\

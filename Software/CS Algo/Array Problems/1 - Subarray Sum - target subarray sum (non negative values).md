@@ -1,4 +1,4 @@
-Repetitions: ||||
+Repetitions: |
 https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&category=Arrays&sortBy=submissions
 
 
@@ -6,6 +6,38 @@ https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page
 given array of non negative numbers, find a contiguous subarray that adds to the target sum $S$
 
 
+### New Solution
+```
+    vector<int> subarraySum(vector<int> &arr, int target) {
+        int start = 0;
+        int end = 0;
+        int sum = arr[start];
+        int n = arr.size();
+        
+        while (end < n)
+        {
+            if (sum > target)
+            {
+                // decrease
+                sum -= arr[start];
+                ++start;
+            }
+            else if (sum < target)
+            {
+                // increase
+                ++end;
+                sum += arr[end];
+            }
+            else
+            {
+                return {start + 1, end + 1};
+            }
+        }
+        
+        return {-1};
+    }
+```
+### Old solution (less elegant)
 Solution In words:
 - use '2 pointers' method to the start and end of the array
 - invariant: always make sure start < end

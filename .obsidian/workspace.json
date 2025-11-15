@@ -13,12 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Assembly/1 - square.md",
+                "file": "Software/Flutter/Compiling The Flutter Engine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - square"
+              "title": "Compiling The Flutter Engine"
+            }
+          },
+          {
+            "id": "77cf3c9d17f4f2f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/Flutter/Compiling V2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Compiling V2"
+            }
+          },
+          {
+            "id": "3c119e35e3837cec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/Flutter/Compiling The Flutter Engine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Compiling The Flutter Engine"
+            }
+          },
+          {
+            "id": "32d3adcba7f8dc9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bey.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bey"
             }
           },
           {
@@ -39,15 +81,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Cool Things to Learn.md",
+                "file": "Software/CS Algo/Array Problems/2 - Kadane's Algorithm - maximum subarray sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cool Things to Learn"
+              "title": "2 - Kadane's Algorithm - maximum subarray sum"
+            }
+          },
+          {
+            "id": "08d8a3f38e363479",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "zz"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -66,7 +123,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -99,12 +157,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 520.5110321044922
   },
   "right": {
     "id": "0f70e818fae8dd9a",
@@ -190,45 +247,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c115c4b40bc5747",
+  "active": "8c50f3ecfef39fc6",
   "lastOpenFiles": [
-    "Excalidraw/drawing1.md",
-    "Excalidraw/square_stack_memory.md",
-    "Software/Assembly/1 - square.md",
+    "Software/CS Algo/Array Problems/1 - Subarray Sum - target subarray sum (non negative values).md",
+    "Software/CS Algo/Array Problems/2 - Kadane's Algorithm - maximum subarray sum.md",
+    "Software/CS Algo/Array Problems/3 - Minimum number of jumps.md",
+    "Software/CS Algo/CS Algo Roadmap.md",
+    "Software/CS Algo/DFS.md",
+    "Software/CS Algo/String/Trie.md",
+    "Software/CS Algo/Array Tips.md",
+    "Software/CS Algo/Motivation To Learn Leetcode.md",
+    "Software/CS Algo/Important Formulas.md",
+    "Software/CS Algo/Hard Problems.md",
+    "Software/CS Algo/Test & Rehearse/Technique Map.md",
     "Software/Cool Things to Learn.md",
-    "Software/Assembly/push command.md",
-    "Software/Assembly/Improtant Registers.md",
-    "Software/Assembly/Untitled 1.md",
-    "Software/Assembly",
-    "Cheat Sheets/CMake Cheat Sheet.md",
-    "Software/Untitled",
-    "Software/Visual Studio 2022 Setup.md",
-    "Software/boost asio cheat sheet.md",
-    "Software/Vision & Math libraries.md",
-    "Stackoverflow Drafts/Sphere Texture Mapping.md",
-    "Pasted image 20250120225006.png",
-    "Software/VSCode/Settings.md",
-    "Books/Good That Might Be Good To Read.md",
-    "Software/CS Algo/Data Structures/Hash Tables/Robin Hood Hash Tables.md",
-    "Excalidraw",
-    "Software/VSCode/Copilot Chat Tips.md",
-    "Software/VSCode/Annoying Thing About VS Code.md",
-    "Pasted image 20240729163803.png",
-    "Ideas/Business Ideas.md",
+    "Software/Flutter/Compiling V2.md",
+    "Software/Flutter/Compiling The Flutter Engine.md",
+    "Bey.md",
+    "Ideas/Things I Want to Buy.md",
+    "Ideas/Persuading.md",
     "Ideas/PC Games.md",
-    "Home/Bike License.md",
-    "Home/Shops.md",
+    "Ideas/Interesting Things to Learn.md",
+    "Ideas/House Purchase.md",
     "Ideas/Checklist flight.md",
+    "Ideas/Business Ideas.md",
+    "Home/Renovation/כלים וחומרים.md",
+    "Home/Purchase Plan.md",
+    "zz.md",
     "Finance/Taxes.md",
-    "Finance/Stocks Analyses.md",
-    "Cheat Sheets/Windows Terminal Cheat Sheet.md",
-    "Cheat Sheets/VCPKG Cheat Sheet.md",
+    "Home/Renovation",
+    "Software/Rust/Interior Mutability",
+    "Software/Assembly",
+    "Software/Untitled",
+    "Pasted image 20250120225006.png",
+    "Excalidraw",
+    "Pasted image 20240729163803.png",
     "Software/CS Algo/Data Structures/Hash Tables",
     "Software/CPP/CPPCon/Hash Tables",
     "Software/CPP/CPPCon",
     "Software/CS Algo/Union Find",
-    "Software/CS Algo/Heap",
-    "Software/CS Algo/Stack",
-    "Software/CS Algo/Intervals"
+    "Software/CS Algo/Heap"
   ]
 }
